@@ -1,0 +1,1712 @@
+{
+    "events": {
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:0": {
+            "acting_parties": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578"
+            ],
+            "asset_type": "USDCx",
+            "child_event_ids": [
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:1"
+            ],
+            "choice": "Allocation_Withdraw",
+            "choice_argument": {
+                "extraArgs": {
+                    "context": {
+                        "values": {
+                            "amulet-rules": {
+                                "tag": "AV_ContractId",
+                                "value": "00f4bd86e2be1021cab2fa1a1e2959b68be44d86357b86b5fc1c66cef8fa33649eca121220a8c7aeddd5896db5c38886a5426943b600b2dcd878c76d93a90aaa39a18fcae9"
+                            },
+                            "expire-lock": {
+                                "tag": "AV_Bool",
+                                "value": true
+                            },
+                            "featured-app-right": {
+                                "tag": "AV_ContractId",
+                                "value": "001bac86a228f209faad6e7a4adf40cd17b8aa7605f166333d640ad3f0c172eeb6ca111220da4eb40ed3d6f4521dcacf25d027c02f4bd0b9c561bc17d76808d30239c75713"
+                            },
+                            "open-round": {
+                                "tag": "AV_ContractId",
+                                "value": "00d812b5edc119dee15c75c7ad409140d190a5ebd10e73461683f7de6ded553522ca1212208200ed4c86c951fced7766ffdbfc41be21bf7168a09a483062624562d3e1e7ce"
+                            }
+                        }
+                    },
+                    "meta": {
+                        "values": {}
+                    }
+                }
+            },
+            "consuming": true,
+            "contract_id": "001d25b61bc6a924619b62476db9aa4e0af5875a3bbff459fdc20d7169ddef6921ca12122017df530c73e1a9bbbf484db5e9c0d7e0212b09c726a960b653e00f57c0aea4f5",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {
+                "meta": {
+                    "values": {}
+                },
+                "senderHoldingCids": [
+                    "00e908b1f3efa890f85c707dabd573c1e6efe1b4ed10183e3c74e3b9f4ee63c00fca1212209f4214c1a5f9c82cf3b9bd21df81ce7405c75cdbccfa430f909093e42a166563"
+                ]
+            },
+            "interface_id": "93c942ae2b4c2ba674fb152fe38473c507bda4e82b4e4c5da55a552a9d8cce1d:Splice.Api.Token.AllocationV1:Allocation",
+            "is_cip56": true,
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.AmuletAllocation:AmuletAllocation"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:1": {
+            "acting_parties": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "asset_type": "USDCx",
+            "child_event_ids": [
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:2"
+            ],
+            "choice": "LockedAmulet_Unlock",
+            "choice_argument": {
+                "openRoundCid": "00d812b5edc119dee15c75c7ad409140d190a5ebd10e73461683f7de6ded553522ca1212208200ed4c86c951fced7766ffdbfc41be21bf7168a09a483062624562d3e1e7ce"
+            },
+            "consuming": true,
+            "contract_id": "00d20fea22c9bc09ef9b0ae2361d7778e1f29a78725322ae40c6b1bc11abee7ffdca121220db546496dc0bf2d689936a0c09559e173418f01d14b198ecfb04732c759f537b",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {
+                "amuletSum": {
+                    "amulet": "00e908b1f3efa890f85c707dabd573c1e6efe1b4ed10183e3c74e3b9f4ee63c00fca1212209f4214c1a5f9c82cf3b9bd21df81ce7405c75cdbccfa430f909093e42a166563",
+                    "amuletPrice": "0.1520430000",
+                    "round": {
+                        "number": "93226"
+                    }
+                },
+                "meta": {
+                    "values": {
+                        "splice.lfdecentralizedtrust.org/reason": "holders released lock",
+                        "splice.lfdecentralizedtrust.org/tx-kind": "unlock"
+                    }
+                }
+            },
+            "is_cip56": true,
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.Amulet:LockedAmulet"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:10": {
+            "acting_parties": null,
+            "asset_type": "USDCx",
+            "consuming": false,
+            "contract_id": "00e2c5d7b9f9cd2336fdc54e09fd6697da4c8634907ad0c3cfa579b792b31dc1c6ca121220f842bf0e888977794b424eb483b35c7e4d0fb9e6d745da0eaccc6a0b00a656ff",
+            "create_arguments": {
+                "amount": {
+                    "createdAt": {
+                        "number": "93226"
+                    },
+                    "initialAmount": "105.0000000000",
+                    "ratePerRound": {
+                        "rate": "0.0001251350"
+                    }
+                },
+                "dso": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "owner": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578"
+            },
+            "created_at": "2026-04-25T09:26:13.358867Z",
+            "event_type": "created_event",
+            "is_cip56": true,
+            "observers": [],
+            "package_name": "splice-amulet",
+            "signatories": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.Amulet:Amulet"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:11": {
+            "acting_parties": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578"
+            ],
+            "asset_type": "USDCx",
+            "child_event_ids": [
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:12",
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:13",
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:16"
+            ],
+            "choice": "AllocationFactory_Allocate",
+            "choice_argument": {
+                "allocation": {
+                    "settlement": {
+                        "allocateBefore": "2026-04-26T09:26:13.358867Z",
+                        "executor": "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f",
+                        "meta": {
+                            "values": {}
+                        },
+                        "requestedAt": "2026-04-25T09:26:13.358867Z",
+                        "settleBefore": "2026-04-27T09:26:13.358867Z",
+                        "settlementRef": {
+                            "cid": null,
+                            "id": "SettlementRef"
+                        }
+                    },
+                    "transferLeg": {
+                        "amount": "105.0000000000",
+                        "instrumentId": {
+                            "admin": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                            "id": "Amulet"
+                        },
+                        "meta": {
+                            "values": {}
+                        },
+                        "receiver": "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                        "sender": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578"
+                    },
+                    "transferLegId": "4cb15722-b040-4bd3-8042-2f869b61b6d0"
+                },
+                "expectedAdmin": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "extraArgs": {
+                    "context": {
+                        "values": {
+                            "amulet-rules": {
+                                "tag": "AV_ContractId",
+                                "value": "00f4bd86e2be1021cab2fa1a1e2959b68be44d86357b86b5fc1c66cef8fa33649eca121220a8c7aeddd5896db5c38886a5426943b600b2dcd878c76d93a90aaa39a18fcae9"
+                            },
+                            "expire-lock": {
+                                "tag": "AV_Bool",
+                                "value": true
+                            },
+                            "featured-app-right": {
+                                "tag": "AV_ContractId",
+                                "value": "001bac86a228f209faad6e7a4adf40cd17b8aa7605f166333d640ad3f0c172eeb6ca111220da4eb40ed3d6f4521dcacf25d027c02f4bd0b9c561bc17d76808d30239c75713"
+                            },
+                            "open-round": {
+                                "tag": "AV_ContractId",
+                                "value": "00d812b5edc119dee15c75c7ad409140d190a5ebd10e73461683f7de6ded553522ca1212208200ed4c86c951fced7766ffdbfc41be21bf7168a09a483062624562d3e1e7ce"
+                            }
+                        }
+                    },
+                    "meta": {
+                        "values": {}
+                    }
+                },
+                "inputHoldingCids": [
+                    "00e2c5d7b9f9cd2336fdc54e09fd6697da4c8634907ad0c3cfa579b792b31dc1c6ca121220f842bf0e888977794b424eb483b35c7e4d0fb9e6d745da0eaccc6a0b00a656ff"
+                ],
+                "requestedAt": "2026-04-25T09:26:13.358867Z"
+            },
+            "consuming": false,
+            "contract_id": "004b73bef9a25d916efe93af46ed3808e2e486428e017b5718ba1c094d5f2424c6ca10122062968f770bf867cc90d77187118df923844f95b4e98fc1197acfdc09d956d8ce",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {
+                "meta": {
+                    "values": {}
+                },
+                "output": {
+                    "tag": "AllocationInstructionResult_Completed",
+                    "value": {
+                        "allocationCid": "0079f54bc623b4c5b835438a62b176fb2c81aa6ce7206d281026205f8a2274c0fcca1212207dbc0e7a0db6f28bb5a369390ece0c08ae432ae11293df05b426ac93c4421a5e"
+                    }
+                },
+                "senderChangeCids": []
+            },
+            "interface_id": "275064aacfe99cea72ee0c80563936129563776f67415ef9f13e4297eecbc520:Splice.Api.Token.AllocationInstructionV1:AllocationFactory",
+            "is_cip56": true,
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.ExternalPartyAmuletRules:ExternalPartyAmuletRules"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:12": {
+            "acting_parties": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578"
+            ],
+            "asset_type": "USDCx",
+            "choice": "AmuletRules_ComputeFees",
+            "choice_argument": {
+                "context": {
+                    "featuredAppRight": null,
+                    "issuingMiningRounds": [],
+                    "openMiningRound": "00d812b5edc119dee15c75c7ad409140d190a5ebd10e73461683f7de6ded553522ca1212208200ed4c86c951fced7766ffdbfc41be21bf7168a09a483062624562d3e1e7ce",
+                    "validatorRights": []
+                },
+                "expectedDso": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "outputs": [
+                    {
+                        "amount": "105.0000000000",
+                        "lock": null,
+                        "receiver": "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                        "receiverFeeRatio": "0E-10"
+                    }
+                ],
+                "sender": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578"
+            },
+            "consuming": false,
+            "contract_id": "00f4bd86e2be1021cab2fa1a1e2959b68be44d86357b86b5fc1c66cef8fa33649eca121220a8c7aeddd5896db5c38886a5426943b600b2dcd878c76d93a90aaa39a18fcae9",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {
+                "fees": [
+                    "0E-10"
+                ]
+            },
+            "is_cip56": true,
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.AmuletRules:AmuletRules"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:13": {
+            "acting_parties": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "asset_type": "USDCx",
+            "child_event_ids": [
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:14",
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:15"
+            ],
+            "choice": "AmuletRules_Transfer",
+            "choice_argument": {
+                "context": {
+                    "featuredAppRight": null,
+                    "issuingMiningRounds": [],
+                    "openMiningRound": "00d812b5edc119dee15c75c7ad409140d190a5ebd10e73461683f7de6ded553522ca1212208200ed4c86c951fced7766ffdbfc41be21bf7168a09a483062624562d3e1e7ce",
+                    "validatorRights": []
+                },
+                "expectedDso": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "transfer": {
+                    "beneficiaries": null,
+                    "inputs": [
+                        {
+                            "tag": "InputAmulet",
+                            "value": "00e2c5d7b9f9cd2336fdc54e09fd6697da4c8634907ad0c3cfa579b792b31dc1c6ca121220f842bf0e888977794b424eb483b35c7e4d0fb9e6d745da0eaccc6a0b00a656ff"
+                        }
+                    ],
+                    "outputs": [
+                        {
+                            "amount": "105.0000000000",
+                            "lock": {
+                                "expiresAt": "2026-04-27T09:26:13.358867Z",
+                                "holders": [
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "optContext": "allocation for transfer leg \"4cb15722-b040-4bd3-8042-2f869b61b6d0\" to 'f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0'"
+                            },
+                            "receiver": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            "receiverFeeRatio": "0E-10"
+                        }
+                    ],
+                    "provider": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                    "sender": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578"
+                }
+            },
+            "consuming": false,
+            "contract_id": "00f4bd86e2be1021cab2fa1a1e2959b68be44d86357b86b5fc1c66cef8fa33649eca121220a8c7aeddd5896db5c38886a5426943b600b2dcd878c76d93a90aaa39a18fcae9",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {
+                "createdAmulets": [
+                    {
+                        "tag": "TransferResultLockedAmulet",
+                        "value": "00cc509828bf5301ade3b742d1046bafe94f01dcbb96e6bfe6ad403d53c548091eca121220086875f3ef58403267e61aa62e656f26fb4aac5f8d0a0dbce674de86ae2f85ae"
+                    }
+                ],
+                "meta": {
+                    "values": {
+                        "splice.lfdecentralizedtrust.org/sender": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                        "splice.lfdecentralizedtrust.org/tx-kind": "transfer"
+                    }
+                },
+                "round": {
+                    "number": "93226"
+                },
+                "senderChangeAmulet": null,
+                "summary": {
+                    "amuletPrice": "0.1520430000",
+                    "balanceChanges": [
+                        [
+                            "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            {
+                                "changeToHoldingFeesRate": "0E-10",
+                                "changeToInitialAmountAsOfRoundZero": "0E-10"
+                            }
+                        ]
+                    ],
+                    "holdingFees": "0E-10",
+                    "inputAmuletAmount": "105.0000000000",
+                    "inputAppRewardAmount": "0E-10",
+                    "inputDevelopmentFundAmount": "0E-10",
+                    "inputSvRewardAmount": "0E-10",
+                    "inputUnclaimedActivityRecordAmount": "0E-10",
+                    "inputValidatorFaucetAmount": "0E-10",
+                    "inputValidatorRewardAmount": "0E-10",
+                    "outputFees": [
+                        "0E-10"
+                    ],
+                    "senderChangeAmount": "0E-10",
+                    "senderChangeFee": "0E-10"
+                }
+            },
+            "is_cip56": true,
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.AmuletRules:AmuletRules"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:14": {
+            "acting_parties": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "asset_type": "USDCx",
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00e2c5d7b9f9cd2336fdc54e09fd6697da4c8634907ad0c3cfa579b792b31dc1c6ca121220f842bf0e888977794b424eb483b35c7e4d0fb9e6d745da0eaccc6a0b00a656ff",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "is_cip56": true,
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.Amulet:Amulet"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:15": {
+            "acting_parties": null,
+            "asset_type": "USDCx",
+            "consuming": false,
+            "contract_id": "00cc509828bf5301ade3b742d1046bafe94f01dcbb96e6bfe6ad403d53c548091eca121220086875f3ef58403267e61aa62e656f26fb4aac5f8d0a0dbce674de86ae2f85ae",
+            "create_arguments": {
+                "amulet": {
+                    "amount": {
+                        "createdAt": {
+                            "number": "93226"
+                        },
+                        "initialAmount": "105.0000000000",
+                        "ratePerRound": {
+                            "rate": "0.0001251350"
+                        }
+                    },
+                    "dso": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                    "owner": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578"
+                },
+                "lock": {
+                    "expiresAt": "2026-04-27T09:26:13.358867Z",
+                    "holders": [
+                        "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                    ],
+                    "optContext": "allocation for transfer leg \"4cb15722-b040-4bd3-8042-2f869b61b6d0\" to 'f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0'"
+                }
+            },
+            "created_at": "2026-04-25T09:26:13.358867Z",
+            "event_type": "created_event",
+            "is_cip56": true,
+            "observers": [],
+            "package_name": "splice-amulet",
+            "signatories": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.Amulet:LockedAmulet"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:16": {
+            "acting_parties": null,
+            "asset_type": "USDCx",
+            "consuming": false,
+            "contract_id": "0079f54bc623b4c5b835438a62b176fb2c81aa6ce7206d281026205f8a2274c0fcca1212207dbc0e7a0db6f28bb5a369390ece0c08ae432ae11293df05b426ac93c4421a5e",
+            "create_arguments": {
+                "allocation": {
+                    "settlement": {
+                        "allocateBefore": "2026-04-26T09:26:13.358867Z",
+                        "executor": "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f",
+                        "meta": {
+                            "values": {}
+                        },
+                        "requestedAt": "2026-04-25T09:26:13.358867Z",
+                        "settleBefore": "2026-04-27T09:26:13.358867Z",
+                        "settlementRef": {
+                            "cid": null,
+                            "id": "SettlementRef"
+                        }
+                    },
+                    "transferLeg": {
+                        "amount": "105.0000000000",
+                        "instrumentId": {
+                            "admin": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                            "id": "Amulet"
+                        },
+                        "meta": {
+                            "values": {}
+                        },
+                        "receiver": "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                        "sender": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578"
+                    },
+                    "transferLegId": "4cb15722-b040-4bd3-8042-2f869b61b6d0"
+                },
+                "lockedAmulet": "00cc509828bf5301ade3b742d1046bafe94f01dcbb96e6bfe6ad403d53c548091eca121220086875f3ef58403267e61aa62e656f26fb4aac5f8d0a0dbce674de86ae2f85ae"
+            },
+            "created_at": "2026-04-25T09:26:13.358867Z",
+            "event_type": "created_event",
+            "is_cip56": true,
+            "observers": [
+                "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+            ],
+            "package_name": "splice-amulet",
+            "signatories": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.AmuletAllocation:AmuletAllocation"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:17": {
+            "acting_parties": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+            ],
+            "asset_type": "USDCx",
+            "child_event_ids": [
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:18",
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:20"
+            ],
+            "choice": "Allocation_ExecuteTransfer",
+            "choice_argument": {
+                "extraArgs": {
+                    "context": {
+                        "values": {
+                            "amulet-rules": {
+                                "tag": "AV_ContractId",
+                                "value": "00f4bd86e2be1021cab2fa1a1e2959b68be44d86357b86b5fc1c66cef8fa33649eca121220a8c7aeddd5896db5c38886a5426943b600b2dcd878c76d93a90aaa39a18fcae9"
+                            },
+                            "expire-lock": {
+                                "tag": "AV_Bool",
+                                "value": true
+                            },
+                            "featured-app-right": {
+                                "tag": "AV_ContractId",
+                                "value": "001bac86a228f209faad6e7a4adf40cd17b8aa7605f166333d640ad3f0c172eeb6ca111220da4eb40ed3d6f4521dcacf25d027c02f4bd0b9c561bc17d76808d30239c75713"
+                            },
+                            "open-round": {
+                                "tag": "AV_ContractId",
+                                "value": "00d812b5edc119dee15c75c7ad409140d190a5ebd10e73461683f7de6ded553522ca1212208200ed4c86c951fced7766ffdbfc41be21bf7168a09a483062624562d3e1e7ce"
+                            }
+                        }
+                    },
+                    "meta": {
+                        "values": {}
+                    }
+                }
+            },
+            "consuming": true,
+            "contract_id": "0079f54bc623b4c5b835438a62b176fb2c81aa6ce7206d281026205f8a2274c0fcca1212207dbc0e7a0db6f28bb5a369390ece0c08ae432ae11293df05b426ac93c4421a5e",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {
+                "meta": {
+                    "values": {}
+                },
+                "receiverHoldingCids": [
+                    "00c0222453f01ad6f30372d1ccb65b018b91b64d7e04a697af12a44cf9f67badc1ca121220e6898b1ff655d30e649be57c0c92d4b2699d078b49b31bbabc94d56e64794aa7"
+                ],
+                "senderHoldingCids": []
+            },
+            "interface_id": "93c942ae2b4c2ba674fb152fe38473c507bda4e82b4e4c5da55a552a9d8cce1d:Splice.Api.Token.AllocationV1:Allocation",
+            "is_cip56": true,
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.AmuletAllocation:AmuletAllocation"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:18": {
+            "acting_parties": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "asset_type": "USDCx",
+            "child_event_ids": [
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:19"
+            ],
+            "choice": "LockedAmulet_Unlock",
+            "choice_argument": {
+                "openRoundCid": "00d812b5edc119dee15c75c7ad409140d190a5ebd10e73461683f7de6ded553522ca1212208200ed4c86c951fced7766ffdbfc41be21bf7168a09a483062624562d3e1e7ce"
+            },
+            "consuming": true,
+            "contract_id": "00cc509828bf5301ade3b742d1046bafe94f01dcbb96e6bfe6ad403d53c548091eca121220086875f3ef58403267e61aa62e656f26fb4aac5f8d0a0dbce674de86ae2f85ae",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {
+                "amuletSum": {
+                    "amulet": "006b0065db0e01b70072ef0aaedc27be3d310746e5fb10d347b88995ca52948a38ca121220935fe681b6a5c9cf6c1daffa86ddf0adaa9626b620a9287dd2e28dcb156619c8",
+                    "amuletPrice": "0.1520430000",
+                    "round": {
+                        "number": "93226"
+                    }
+                },
+                "meta": {
+                    "values": {
+                        "splice.lfdecentralizedtrust.org/reason": "holders released lock",
+                        "splice.lfdecentralizedtrust.org/tx-kind": "unlock"
+                    }
+                }
+            },
+            "is_cip56": true,
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.Amulet:LockedAmulet"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:19": {
+            "acting_parties": null,
+            "asset_type": "USDCx",
+            "consuming": false,
+            "contract_id": "006b0065db0e01b70072ef0aaedc27be3d310746e5fb10d347b88995ca52948a38ca121220935fe681b6a5c9cf6c1daffa86ddf0adaa9626b620a9287dd2e28dcb156619c8",
+            "create_arguments": {
+                "amount": {
+                    "createdAt": {
+                        "number": "93226"
+                    },
+                    "initialAmount": "105.0000000000",
+                    "ratePerRound": {
+                        "rate": "0.0001251350"
+                    }
+                },
+                "dso": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "owner": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578"
+            },
+            "created_at": "2026-04-25T09:26:13.358867Z",
+            "event_type": "created_event",
+            "is_cip56": true,
+            "observers": [],
+            "package_name": "splice-amulet",
+            "signatories": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.Amulet:Amulet"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:2": {
+            "acting_parties": null,
+            "asset_type": "USDCx",
+            "consuming": false,
+            "contract_id": "00e908b1f3efa890f85c707dabd573c1e6efe1b4ed10183e3c74e3b9f4ee63c00fca1212209f4214c1a5f9c82cf3b9bd21df81ce7405c75cdbccfa430f909093e42a166563",
+            "create_arguments": {
+                "amount": {
+                    "createdAt": {
+                        "number": "93225"
+                    },
+                    "initialAmount": "2.0000000000",
+                    "ratePerRound": {
+                        "rate": "0.0001249107"
+                    }
+                },
+                "dso": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "owner": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578"
+            },
+            "created_at": "2026-04-25T09:26:13.358867Z",
+            "event_type": "created_event",
+            "is_cip56": true,
+            "observers": [],
+            "package_name": "splice-amulet",
+            "signatories": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.Amulet:Amulet"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:20": {
+            "acting_parties": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+            ],
+            "asset_type": "USDCx",
+            "child_event_ids": [
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:21",
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:22",
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:23"
+            ],
+            "choice": "AmuletRules_Transfer",
+            "choice_argument": {
+                "context": {
+                    "featuredAppRight": "001bac86a228f209faad6e7a4adf40cd17b8aa7605f166333d640ad3f0c172eeb6ca111220da4eb40ed3d6f4521dcacf25d027c02f4bd0b9c561bc17d76808d30239c75713",
+                    "issuingMiningRounds": [],
+                    "openMiningRound": "00d812b5edc119dee15c75c7ad409140d190a5ebd10e73461683f7de6ded553522ca1212208200ed4c86c951fced7766ffdbfc41be21bf7168a09a483062624562d3e1e7ce",
+                    "validatorRights": []
+                },
+                "expectedDso": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "transfer": {
+                    "beneficiaries": null,
+                    "inputs": [
+                        {
+                            "tag": "InputAmulet",
+                            "value": "006b0065db0e01b70072ef0aaedc27be3d310746e5fb10d347b88995ca52948a38ca121220935fe681b6a5c9cf6c1daffa86ddf0adaa9626b620a9287dd2e28dcb156619c8"
+                        }
+                    ],
+                    "outputs": [
+                        {
+                            "amount": "105.0000000000",
+                            "lock": null,
+                            "receiver": "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                            "receiverFeeRatio": "0E-10"
+                        }
+                    ],
+                    "provider": "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f",
+                    "sender": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578"
+                }
+            },
+            "consuming": false,
+            "contract_id": "00f4bd86e2be1021cab2fa1a1e2959b68be44d86357b86b5fc1c66cef8fa33649eca121220a8c7aeddd5896db5c38886a5426943b600b2dcd878c76d93a90aaa39a18fcae9",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {
+                "createdAmulets": [
+                    {
+                        "tag": "TransferResultAmulet",
+                        "value": "00c0222453f01ad6f30372d1ccb65b018b91b64d7e04a697af12a44cf9f67badc1ca121220e6898b1ff655d30e649be57c0c92d4b2699d078b49b31bbabc94d56e64794aa7"
+                    }
+                ],
+                "meta": {
+                    "values": {
+                        "splice.lfdecentralizedtrust.org/sender": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                        "splice.lfdecentralizedtrust.org/tx-kind": "transfer"
+                    }
+                },
+                "round": {
+                    "number": "93226"
+                },
+                "senderChangeAmulet": null,
+                "summary": {
+                    "amuletPrice": "0.1520430000",
+                    "balanceChanges": [
+                        [
+                            "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            {
+                                "changeToHoldingFeesRate": "-0.0001251350",
+                                "changeToInitialAmountAsOfRoundZero": "-116.6658355100"
+                            }
+                        ],
+                        [
+                            "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                            {
+                                "changeToHoldingFeesRate": "0.0001251350",
+                                "changeToInitialAmountAsOfRoundZero": "116.6658355100"
+                            }
+                        ]
+                    ],
+                    "holdingFees": "0E-10",
+                    "inputAmuletAmount": "105.0000000000",
+                    "inputAppRewardAmount": "0E-10",
+                    "inputDevelopmentFundAmount": "0E-10",
+                    "inputSvRewardAmount": "0E-10",
+                    "inputUnclaimedActivityRecordAmount": "0E-10",
+                    "inputValidatorFaucetAmount": "0E-10",
+                    "inputValidatorRewardAmount": "0E-10",
+                    "outputFees": [
+                        "0E-10"
+                    ],
+                    "senderChangeAmount": "0E-10",
+                    "senderChangeFee": "0E-10"
+                }
+            },
+            "is_cip56": true,
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.AmuletRules:AmuletRules"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:21": {
+            "acting_parties": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "asset_type": "USDCx",
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "006b0065db0e01b70072ef0aaedc27be3d310746e5fb10d347b88995ca52948a38ca121220935fe681b6a5c9cf6c1daffa86ddf0adaa9626b620a9287dd2e28dcb156619c8",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "is_cip56": true,
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.Amulet:Amulet"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:22": {
+            "acting_parties": null,
+            "asset_type": "USDCx",
+            "consuming": false,
+            "contract_id": "00f5b3cf32a14942abb6098372f97edabf56961b2201717856763beb94377665d2ca12122031ab6b771a44108ebe03e535ba0b90463e9dbd3ce05e1f312ebbe13b1e5f0ba6",
+            "create_arguments": {
+                "amount": "6.5770867452",
+                "beneficiary": "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f",
+                "dso": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "featured": true,
+                "provider": "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f",
+                "round": {
+                    "number": "93226"
+                }
+            },
+            "created_at": "2026-04-25T09:26:13.358867Z",
+            "event_type": "created_event",
+            "is_cip56": true,
+            "observers": [
+                "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+            ],
+            "package_name": "splice-amulet",
+            "signatories": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.Amulet:AppRewardCoupon"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:23": {
+            "acting_parties": null,
+            "asset_type": "USDCx",
+            "consuming": false,
+            "contract_id": "00c0222453f01ad6f30372d1ccb65b018b91b64d7e04a697af12a44cf9f67badc1ca121220e6898b1ff655d30e649be57c0c92d4b2699d078b49b31bbabc94d56e64794aa7",
+            "create_arguments": {
+                "amount": {
+                    "createdAt": {
+                        "number": "93226"
+                    },
+                    "initialAmount": "105.0000000000",
+                    "ratePerRound": {
+                        "rate": "0.0001251350"
+                    }
+                },
+                "dso": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "owner": "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0"
+            },
+            "created_at": "2026-04-25T09:26:13.358867Z",
+            "event_type": "created_event",
+            "is_cip56": true,
+            "observers": [],
+            "package_name": "splice-amulet",
+            "signatories": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0"
+            ],
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.Amulet:Amulet"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:3": {
+            "acting_parties": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578"
+            ],
+            "asset_type": "USDCx",
+            "child_event_ids": [
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:4"
+            ],
+            "choice": "Allocation_Withdraw",
+            "choice_argument": {
+                "extraArgs": {
+                    "context": {
+                        "values": {
+                            "amulet-rules": {
+                                "tag": "AV_ContractId",
+                                "value": "00f4bd86e2be1021cab2fa1a1e2959b68be44d86357b86b5fc1c66cef8fa33649eca121220a8c7aeddd5896db5c38886a5426943b600b2dcd878c76d93a90aaa39a18fcae9"
+                            },
+                            "expire-lock": {
+                                "tag": "AV_Bool",
+                                "value": true
+                            },
+                            "featured-app-right": {
+                                "tag": "AV_ContractId",
+                                "value": "001bac86a228f209faad6e7a4adf40cd17b8aa7605f166333d640ad3f0c172eeb6ca111220da4eb40ed3d6f4521dcacf25d027c02f4bd0b9c561bc17d76808d30239c75713"
+                            },
+                            "open-round": {
+                                "tag": "AV_ContractId",
+                                "value": "00d812b5edc119dee15c75c7ad409140d190a5ebd10e73461683f7de6ded553522ca1212208200ed4c86c951fced7766ffdbfc41be21bf7168a09a483062624562d3e1e7ce"
+                            }
+                        }
+                    },
+                    "meta": {
+                        "values": {}
+                    }
+                }
+            },
+            "consuming": true,
+            "contract_id": "00e6ed112644d4053d67eebd52b68a8ec3c021a0a6bb79bce44e22390009b572c1ca121220a09cf677c0d9e0e3bc204766e223c729ba6fe8322c24acc86725b7b5a3d8a1e8",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {
+                "meta": {
+                    "values": {}
+                },
+                "senderHoldingCids": [
+                    "0073a8a89ff16087ab1673a0af8e1c645e2af05a7b6439ce8b733b53d4b0d557b5ca12122069a42d7483b1d9a83f36352fdae7d7e98588530b7d38ed4caa05e1e67df692b4"
+                ]
+            },
+            "interface_id": "93c942ae2b4c2ba674fb152fe38473c507bda4e82b4e4c5da55a552a9d8cce1d:Splice.Api.Token.AllocationV1:Allocation",
+            "is_cip56": true,
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.AmuletAllocation:AmuletAllocation"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:4": {
+            "acting_parties": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "asset_type": "USDCx",
+            "child_event_ids": [
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:5"
+            ],
+            "choice": "LockedAmulet_Unlock",
+            "choice_argument": {
+                "openRoundCid": "00d812b5edc119dee15c75c7ad409140d190a5ebd10e73461683f7de6ded553522ca1212208200ed4c86c951fced7766ffdbfc41be21bf7168a09a483062624562d3e1e7ce"
+            },
+            "consuming": true,
+            "contract_id": "00e6d55e176a363a9b24ce6321f04bb62bc0fc4b96fc4cb4697f04493e5b048186ca121220237710002629f25a832bb2ba0397059aa085ca7df070354b29afb85574fd3b0c",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {
+                "amuletSum": {
+                    "amulet": "0073a8a89ff16087ab1673a0af8e1c645e2af05a7b6439ce8b733b53d4b0d557b5ca12122069a42d7483b1d9a83f36352fdae7d7e98588530b7d38ed4caa05e1e67df692b4",
+                    "amuletPrice": "0.1520430000",
+                    "round": {
+                        "number": "93226"
+                    }
+                },
+                "meta": {
+                    "values": {
+                        "splice.lfdecentralizedtrust.org/reason": "holders released lock",
+                        "splice.lfdecentralizedtrust.org/tx-kind": "unlock"
+                    }
+                }
+            },
+            "is_cip56": true,
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.Amulet:LockedAmulet"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:5": {
+            "acting_parties": null,
+            "asset_type": "USDCx",
+            "consuming": false,
+            "contract_id": "0073a8a89ff16087ab1673a0af8e1c645e2af05a7b6439ce8b733b53d4b0d557b5ca12122069a42d7483b1d9a83f36352fdae7d7e98588530b7d38ed4caa05e1e67df692b4",
+            "create_arguments": {
+                "amount": {
+                    "createdAt": {
+                        "number": "93226"
+                    },
+                    "initialAmount": "103.0000000000",
+                    "ratePerRound": {
+                        "rate": "0.0001251350"
+                    }
+                },
+                "dso": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "owner": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578"
+            },
+            "created_at": "2026-04-25T09:26:13.358867Z",
+            "event_type": "created_event",
+            "is_cip56": true,
+            "observers": [],
+            "package_name": "splice-amulet",
+            "signatories": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.Amulet:Amulet"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:6": {
+            "acting_parties": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578"
+            ],
+            "asset_type": "USDCx",
+            "child_event_ids": [
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:7"
+            ],
+            "choice": "TransferFactory_Transfer",
+            "choice_argument": {
+                "expectedAdmin": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "extraArgs": {
+                    "context": {
+                        "values": {
+                            "amulet-rules": {
+                                "tag": "AV_ContractId",
+                                "value": "00f4bd86e2be1021cab2fa1a1e2959b68be44d86357b86b5fc1c66cef8fa33649eca121220a8c7aeddd5896db5c38886a5426943b600b2dcd878c76d93a90aaa39a18fcae9"
+                            },
+                            "expire-lock": {
+                                "tag": "AV_Bool",
+                                "value": true
+                            },
+                            "featured-app-right": {
+                                "tag": "AV_ContractId",
+                                "value": "001bac86a228f209faad6e7a4adf40cd17b8aa7605f166333d640ad3f0c172eeb6ca111220da4eb40ed3d6f4521dcacf25d027c02f4bd0b9c561bc17d76808d30239c75713"
+                            },
+                            "open-round": {
+                                "tag": "AV_ContractId",
+                                "value": "00d812b5edc119dee15c75c7ad409140d190a5ebd10e73461683f7de6ded553522ca1212208200ed4c86c951fced7766ffdbfc41be21bf7168a09a483062624562d3e1e7ce"
+                            }
+                        }
+                    },
+                    "meta": {
+                        "values": {}
+                    }
+                },
+                "transfer": {
+                    "amount": "105.0000000000",
+                    "executeBefore": "2026-04-26T09:26:13.358867Z",
+                    "inputHoldingCids": [
+                        "00e908b1f3efa890f85c707dabd573c1e6efe1b4ed10183e3c74e3b9f4ee63c00fca1212209f4214c1a5f9c82cf3b9bd21df81ce7405c75cdbccfa430f909093e42a166563",
+                        "0073a8a89ff16087ab1673a0af8e1c645e2af05a7b6439ce8b733b53d4b0d557b5ca12122069a42d7483b1d9a83f36352fdae7d7e98588530b7d38ed4caa05e1e67df692b4"
+                    ],
+                    "instrumentId": {
+                        "admin": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                        "id": "Amulet"
+                    },
+                    "meta": {
+                        "values": {}
+                    },
+                    "receiver": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                    "requestedAt": "2026-04-25T09:26:13.358867Z",
+                    "sender": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578"
+                }
+            },
+            "consuming": false,
+            "contract_id": "004b73bef9a25d916efe93af46ed3808e2e486428e017b5718ba1c094d5f2424c6ca10122062968f770bf867cc90d77187118df923844f95b4e98fc1197acfdc09d956d8ce",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {
+                "meta": {
+                    "values": {}
+                },
+                "output": {
+                    "tag": "TransferInstructionResult_Completed",
+                    "value": {
+                        "receiverHoldingCids": [
+                            "00e2c5d7b9f9cd2336fdc54e09fd6697da4c8634907ad0c3cfa579b792b31dc1c6ca121220f842bf0e888977794b424eb483b35c7e4d0fb9e6d745da0eaccc6a0b00a656ff"
+                        ]
+                    }
+                },
+                "senderChangeCids": []
+            },
+            "interface_id": "55ba4deb0ad4662c4168b39859738a0e91388d252286480c7331b3f71a517281:Splice.Api.Token.TransferInstructionV1:TransferFactory",
+            "is_cip56": true,
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.ExternalPartyAmuletRules:ExternalPartyAmuletRules"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:7": {
+            "acting_parties": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578"
+            ],
+            "asset_type": "USDCx",
+            "child_event_ids": [
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:8",
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:9",
+                "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:10"
+            ],
+            "choice": "AmuletRules_Transfer",
+            "choice_argument": {
+                "context": {
+                    "featuredAppRight": null,
+                    "issuingMiningRounds": [],
+                    "openMiningRound": "00d812b5edc119dee15c75c7ad409140d190a5ebd10e73461683f7de6ded553522ca1212208200ed4c86c951fced7766ffdbfc41be21bf7168a09a483062624562d3e1e7ce",
+                    "validatorRights": []
+                },
+                "expectedDso": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "transfer": {
+                    "beneficiaries": null,
+                    "inputs": [
+                        {
+                            "tag": "InputAmulet",
+                            "value": "00e908b1f3efa890f85c707dabd573c1e6efe1b4ed10183e3c74e3b9f4ee63c00fca1212209f4214c1a5f9c82cf3b9bd21df81ce7405c75cdbccfa430f909093e42a166563"
+                        },
+                        {
+                            "tag": "InputAmulet",
+                            "value": "0073a8a89ff16087ab1673a0af8e1c645e2af05a7b6439ce8b733b53d4b0d557b5ca12122069a42d7483b1d9a83f36352fdae7d7e98588530b7d38ed4caa05e1e67df692b4"
+                        }
+                    ],
+                    "outputs": [
+                        {
+                            "amount": "105.0000000000",
+                            "lock": null,
+                            "receiver": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            "receiverFeeRatio": "0E-10"
+                        }
+                    ],
+                    "provider": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                    "sender": "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578"
+                }
+            },
+            "consuming": false,
+            "contract_id": "00f4bd86e2be1021cab2fa1a1e2959b68be44d86357b86b5fc1c66cef8fa33649eca121220a8c7aeddd5896db5c38886a5426943b600b2dcd878c76d93a90aaa39a18fcae9",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {
+                "createdAmulets": [
+                    {
+                        "tag": "TransferResultAmulet",
+                        "value": "00e2c5d7b9f9cd2336fdc54e09fd6697da4c8634907ad0c3cfa579b792b31dc1c6ca121220f842bf0e888977794b424eb483b35c7e4d0fb9e6d745da0eaccc6a0b00a656ff"
+                    }
+                ],
+                "meta": {
+                    "values": {
+                        "splice.lfdecentralizedtrust.org/tx-kind": "merge-split"
+                    }
+                },
+                "round": {
+                    "number": "93226"
+                },
+                "senderChangeAmulet": null,
+                "summary": {
+                    "amuletPrice": "0.1520430000",
+                    "balanceChanges": [
+                        [
+                            "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            {
+                                "changeToHoldingFeesRate": "-0.0001249107",
+                                "changeToInitialAmountAsOfRoundZero": "-11.6448000075"
+                            }
+                        ]
+                    ],
+                    "holdingFees": "0E-10",
+                    "inputAmuletAmount": "105.0000000000",
+                    "inputAppRewardAmount": "0E-10",
+                    "inputDevelopmentFundAmount": "0E-10",
+                    "inputSvRewardAmount": "0E-10",
+                    "inputUnclaimedActivityRecordAmount": "0E-10",
+                    "inputValidatorFaucetAmount": "0E-10",
+                    "inputValidatorRewardAmount": "0E-10",
+                    "outputFees": [
+                        "0E-10"
+                    ],
+                    "senderChangeAmount": "0E-10",
+                    "senderChangeFee": "0E-10"
+                }
+            },
+            "is_cip56": true,
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.AmuletRules:AmuletRules"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:8": {
+            "acting_parties": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "asset_type": "USDCx",
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00e908b1f3efa890f85c707dabd573c1e6efe1b4ed10183e3c74e3b9f4ee63c00fca1212209f4214c1a5f9c82cf3b9bd21df81ce7405c75cdbccfa430f909093e42a166563",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "is_cip56": true,
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.Amulet:Amulet"
+        },
+        "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:9": {
+            "acting_parties": [
+                "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "asset_type": "USDCx",
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "0073a8a89ff16087ab1673a0af8e1c645e2af05a7b6439ce8b733b53d4b0d557b5ca12122069a42d7483b1d9a83f36352fdae7d7e98588530b7d38ed4caa05e1e67df692b4",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "is_cip56": true,
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "c208d7ead1e4e9b610fc2054d0bf00716144ad444011bce0b02dcd6cd0cb8a23:Splice.Amulet:Amulet"
+        },
+        "verdict": {
+            "id": 235202053,
+            "update_id": "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60",
+            "migration_id": 4,
+            "synchronizer_id": 1,
+            "record_time": "2026-04-25T09:26:13.714141Z",
+            "finalization_time": "2026-04-25T09:26:15.070844Z",
+            "submitting_parties": [
+                "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+            ],
+            "submitting_participant_uid": "",
+            "verdict_result": "accepted",
+            "mediator_group": 0,
+            "transaction_views": {
+                "views": [
+                    {
+                        "view_id": 0,
+                        "informees": [
+                            "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                            "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+                        ],
+                        "sub_views": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12,
+                            13,
+                            15,
+                            16,
+                            17,
+                            18,
+                            21
+                        ],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                                    "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                                    "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+                                ],
+                                "threshold": 3
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 1,
+                        "informees": [
+                            "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                            "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                                    "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+                                ],
+                                "threshold": 3
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 2,
+                        "informees": [
+                            "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                            "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                                    "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+                                ],
+                                "threshold": 3
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 3,
+                        "informees": [
+                            "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "threshold": 2
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 4,
+                        "informees": [
+                            "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "threshold": 2
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 5,
+                        "informees": [
+                            "Bridge-Operator::1220c8448890a70e65f6906bd48d797ee6551f094e9e6a53e329fd5b2b549334f13f",
+                            "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef",
+                            "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                            "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "Bridge-Operator::1220c8448890a70e65f6906bd48d797ee6551f094e9e6a53e329fd5b2b549334f13f",
+                                    "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef",
+                                    "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                                    "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+                                ],
+                                "threshold": 4
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 6,
+                        "informees": [
+                            "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef",
+                            "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef",
+                                    "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0"
+                                ],
+                                "threshold": 2
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 7,
+                        "informees": [
+                            "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                            "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "threshold": 2
+                            },
+                            {
+                                "parties": [
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "threshold": 1
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 8,
+                        "informees": [
+                            "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                            "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "threshold": 2
+                            },
+                            {
+                                "parties": [
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "threshold": 1
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 9,
+                        "informees": [
+                            "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "threshold": 2
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 10,
+                        "informees": [
+                            "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "threshold": 2
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 11,
+                        "informees": [
+                            "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "threshold": 2
+                            },
+                            {
+                                "parties": [
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "threshold": 1
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 12,
+                        "informees": [
+                            "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "threshold": 2
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 13,
+                        "informees": [
+                            "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                        ],
+                        "sub_views": [
+                            14
+                        ],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "threshold": 2
+                            },
+                            {
+                                "parties": [
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "threshold": 1
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 14,
+                        "informees": [
+                            "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                            "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "threshold": 2
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 15,
+                        "informees": [
+                            "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                            "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                            "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                                    "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                                    "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+                                ],
+                                "threshold": 4
+                            },
+                            {
+                                "parties": [
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "threshold": 1
+                            },
+                            {
+                                "parties": [
+                                    "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "threshold": 2
+                            },
+                            {
+                                "parties": [
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                                    "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f"
+                                ],
+                                "threshold": 2
+                            },
+                            {
+                                "parties": [
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                                    "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0"
+                                ],
+                                "threshold": 2
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 16,
+                        "informees": [
+                            "Bridge-Operator::1220c8448890a70e65f6906bd48d797ee6551f094e9e6a53e329fd5b2b549334f13f",
+                            "auth0_007c6643538f2eadd3e573dd05b9::12205bcc106efa0eaa7f18dc491e5c6f5fb9b0cc68dc110ae66f4ed6467475d7c78e",
+                            "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f",
+                            "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                            "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "Bridge-Operator::1220c8448890a70e65f6906bd48d797ee6551f094e9e6a53e329fd5b2b549334f13f",
+                                    "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                                    "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef"
+                                ],
+                                "threshold": 3
+                            },
+                            {
+                                "parties": [
+                                    "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef",
+                                    "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0"
+                                ],
+                                "threshold": 2
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 17,
+                        "informees": [
+                            "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef",
+                            "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef",
+                                    "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0"
+                                ],
+                                "threshold": 2
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 18,
+                        "informees": [
+                            "Bridge-Operator::1220c8448890a70e65f6906bd48d797ee6551f094e9e6a53e329fd5b2b549334f13f",
+                            "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef",
+                            "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0"
+                        ],
+                        "sub_views": [
+                            19
+                        ],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "Bridge-Operator::1220c8448890a70e65f6906bd48d797ee6551f094e9e6a53e329fd5b2b549334f13f",
+                                    "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef",
+                                    "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0"
+                                ],
+                                "threshold": 3
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 19,
+                        "informees": [
+                            "Bridge-Operator::1220c8448890a70e65f6906bd48d797ee6551f094e9e6a53e329fd5b2b549334f13f",
+                            "auth0_007c6643538f2eadd3e573dd05b9::12205bcc106efa0eaa7f18dc491e5c6f5fb9b0cc68dc110ae66f4ed6467475d7c78e",
+                            "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef",
+                            "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0"
+                        ],
+                        "sub_views": [
+                            20
+                        ],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "Bridge-Operator::1220c8448890a70e65f6906bd48d797ee6551f094e9e6a53e329fd5b2b549334f13f",
+                                    "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef",
+                                    "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0"
+                                ],
+                                "threshold": 3
+                            },
+                            {
+                                "parties": [
+                                    "Bridge-Operator::1220c8448890a70e65f6906bd48d797ee6551f094e9e6a53e329fd5b2b549334f13f",
+                                    "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef"
+                                ],
+                                "threshold": 2
+                            },
+                            {
+                                "parties": [
+                                    "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef",
+                                    "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0"
+                                ],
+                                "threshold": 2
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 20,
+                        "informees": [
+                            "Bridge-Operator::1220c8448890a70e65f6906bd48d797ee6551f094e9e6a53e329fd5b2b549334f13f",
+                            "auth0_007c6643538f2eadd3e573dd05b9::12205bcc106efa0eaa7f18dc491e5c6f5fb9b0cc68dc110ae66f4ed6467475d7c78e",
+                            "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f",
+                            "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                            "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "Bridge-Operator::1220c8448890a70e65f6906bd48d797ee6551f094e9e6a53e329fd5b2b549334f13f",
+                                    "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                                    "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef"
+                                ],
+                                "threshold": 3
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 21,
+                        "informees": [
+                            "Bridge-Operator::1220c8448890a70e65f6906bd48d797ee6551f094e9e6a53e329fd5b2b549334f13f",
+                            "auth0_007c6643538f2eadd3e573dd05b9::12205bcc106efa0eaa7f18dc491e5c6f5fb9b0cc68dc110ae66f4ed6467475d7c78e",
+                            "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f",
+                            "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                            "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                            "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "Bridge-Operator::1220c8448890a70e65f6906bd48d797ee6551f094e9e6a53e329fd5b2b549334f13f",
+                                    "temple-mainnet-1::1220f238bb79df3efbbac2ea964c3cd501003971a2cb59043e2dac50b06e85b8620f",
+                                    "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                                    "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0",
+                                    "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef"
+                                ],
+                                "threshold": 5
+                            },
+                            {
+                                "parties": [
+                                    "Bridge-Operator::1220c8448890a70e65f6906bd48d797ee6551f094e9e6a53e329fd5b2b549334f13f",
+                                    "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef"
+                                ],
+                                "threshold": 2
+                            },
+                            {
+                                "parties": [
+                                    "Bridge-Operator::1220c8448890a70e65f6906bd48d797ee6551f094e9e6a53e329fd5b2b549334f13f",
+                                    "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef",
+                                    "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0"
+                                ],
+                                "threshold": 3
+                            },
+                            {
+                                "parties": [
+                                    "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef",
+                                    "f93f461a24770ad5399c5fdb97cf972d::122021c84adc8d934d814f4d0d846553838ec09ab8a087e8572a4785fe0ac43dcdd0"
+                                ],
+                                "threshold": 2
+                            },
+                            {
+                                "parties": [
+                                    "6bf5dc028ef2f0cb5eaf511361069c17::1220461557e5f405b9260b5ad1e946a3f271bd21afd1948b181047c945c00d5a9578",
+                                    "decentralized-usdc-interchain-rep::12208115f1e168dd7e792320be9c4ca720c751a02a3053c7606e1c1cd3dad9bf60ef"
+                                ],
+                                "threshold": 2
+                            }
+                        ]
+                    }
+                ]
+            },
+            "created_at": "2026-04-25T09:30:32.213921Z",
+            "updated_at": "2026-04-25T09:30:32.213921Z"
+        }
+    },
+    "transaction": {
+        "id": 1777109173714141000,
+        "update_id": "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60",
+        "migration_id": 4,
+        "record_time": "2026-04-25T09:26:13.714141Z",
+        "workflow_id": "temple-trading-workflow",
+        "synchronizer_id": "global-domain::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+        "effective_at": "2026-04-25T09:26:13.358867Z",
+        "offset_value": "000000000000000001",
+        "root_event_ids": [
+            "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:0",
+            "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:3",
+            "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:6",
+            "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:11",
+            "1220aabb40472b962d11eac0d349ce118a5916d937d4922066d09860e920c6ce4e60:17"
+        ],
+        "updated_at": "2026-04-25T09:30:20.852389Z",
+        "round": 93226,
+        "choice": "",
+        "consuming": false,
+        "acting_parties": null,
+        "signatories": null,
+        "contract_id": "",
+        "choice_argument": null,
+        "is_cip56": false
+    }
+}

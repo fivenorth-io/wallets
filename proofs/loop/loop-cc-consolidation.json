@@ -1,0 +1,1736 @@
+{
+    "events": {
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:0": {
+            "acting_parties": [
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "child_event_ids": [
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:1",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:2",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:3",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:4",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:5",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:6",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:7",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:8",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:9",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:10",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:11",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:12",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:13",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:14",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:15",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:16",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:17",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:18",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:19",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:20",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:21",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:22",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:23",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:24",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:25",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:26",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:27",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:28",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:29",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:30",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:31",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:32",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:33",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:34",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:35",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:36",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:37",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:38",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:39",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:40",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:41",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:42",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:43",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:44",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:45",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:46",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:47",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:48",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:49",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:50",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:51",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:52"
+            ],
+            "choice": "TransferFactory_Transfer",
+            "choice_argument": {
+                "expectedAdmin": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "extraArgs": {
+                    "context": {
+                        "values": {
+                            "amulet-rules": {
+                                "tag": "AV_ContractId",
+                                "value": "004c2f3cb5642f52d7276ac41a7ca3d0d241ed259a29a7d14771817835fd923cceca1212200a36e0806a8d2dad6727566b9c4b94d8f8bd23eb76e5d709d6c6bacb08d9939e"
+                            },
+                            "external-party-config-state": {
+                                "tag": "AV_ContractId",
+                                "value": "0054c0b36b01e2876bacbe332161456f019efc6149c607504e2d586f6c5536bdd0ca12122082c9546f56baed96348f458094be0cbe4bee84ae5fbd8c10c212d27ec5339c3f"
+                            },
+                            "open-round": {
+                                "tag": "AV_ContractId",
+                                "value": "007620cd1aea0bcb5c6a9ff3aec65cab0db8b2c91cd2ead2f15f511a9c90fdd47fca12122097eb1c51484f408237b7034a516b7ab289f2c16c49b35af300458410107a45bf"
+                            }
+                        }
+                    },
+                    "meta": {
+                        "values": {}
+                    }
+                },
+                "transfer": {
+                    "amount": "25005.4150418439",
+                    "executeBefore": "2026-11-27T15:24:34.863505Z",
+                    "inputHoldingCids": [
+                        "00842f8c6468628523d2dd42a43b2f53872998180fd97874e7d255fc051ebdcbf3ca12122076cadc145e084295a3917035b71b8d9caecebb42fcd1950aff8b701efe2d707a",
+                        "00738995e3959a635c1bbd25e5ccaf10712d8163bdec1119c8a03451d4f97a9e1cca1212208d36b6eae4d5079f171d456d2c3bb64a226110874dc69997f8f88fd7fd43a63d",
+                        "00f88af4aabce3c98f66ca38f1fd1d22585d3e931e46dea1728ad92e5c25332854ca121220a6da20680c0a57c908b3fa705522c7bb6920c5a950250243112ea0c63540e8e0",
+                        "000f9d157ecf481f9c3d92452567f902f4014ec203fe58fa6b81421589da2db77aca12122055b3692285a397221ccd62fff04ea4f43e735860ae66af08de5893f1502c569d",
+                        "0004c7ce7cbb53b8ba82e798584b52b17d17f1058ec86beb09bd1b6700ee2162a5ca1212205cc0dd491e8a712d8586b2c41ccd29db0319bc29c2263316d69ad47541e91338",
+                        "001687593714c076324dedace29609d0a64a474dc2943359f94668b93ba2c33621ca12122098a60bbf84e67217c422fe517f17237402ec5cb333cc1fe79bda29f7e98d7fd6",
+                        "00db62342f486603cd9980168e44013359ab3af0a976b8033863cb162362c32764ca12122068db4a896bfc0cd757c349105a710cc4f3c31bc6a02af362f84cd9792d78a45f",
+                        "00e50621e8507ad734f4e1c3dc88542969b1d777203f3a893f42c4fc2ed08893caca1212207bb85bd0f0fecf51006330755518825ca2acd2d657c230221c8703bd117e41f8",
+                        "0056480778af7d7c5c23cf506dd2ae679e68e1031087a96b52dd2bc74dfc80c704ca12122019465edee91798e3d325f29b7f3c138b683aa7d94c2ba6c5ad3f1ecddb0ebb8f",
+                        "00e368dfd122828f576bc1cd7cb10b18ac84aeafd05750b5f9d801abe146f98b77ca121220415eae29f76dca27373fe51c6a3f92ce9d4ed4622943a16f2595e37eecb0a480",
+                        "006a31250e081c5b527dff8d0d86c43b5efccbfd9b05be9b93481157d410e706acca1212202e99375052e6efee2b50120b937e297c78c35a813ceeac85d11a51174003eae9",
+                        "00bb3dc604bf221c7a9e1f5a0e1183e79e8368f1d10d4a97fad3ed106c1a7810c8ca1212201d7568647af0a2a37d465847162b94067f7d3bfa95834d878345f0d2b8ccda4b",
+                        "007760abff802072625facbca374896445cfef22fe9a6a7c7b8f95c354506085bcca1212209bf182906825ff734fe32dbb6a4e0b5de4dbfbf8797f94e8eca9d15ee75176c6",
+                        "00e35594aa6d20bc92dc8032ab165ec39283f750f9b3cf6041d428a24fa84103aaca121220a80d94c31ed43b78140707f4ded6d7aac89a25e20058e7c4fa1545968d3bb1dd",
+                        "004b347a1c2f880da07152e0822b2f2c6f70842a7ddb735d00116dff48aae3fb60ca1212206c6819aa3692a0acc9c502ccc7376601c3603e78d2807dcfaeb1d959aabfcb97",
+                        "0083a03a8bd86077ddb86ba1ce2521bfa7f510859efe1bc44227d5b204f433083eca121220660ae21b4e1707df21e2b81ac9dbd40301f91a60b8606235cdf53fdb2cb4adbe",
+                        "00a2a2ac8efd895fe7e9a5b19d08c41f87f475ad20cdb1d3cc9f5320ae6213f395ca121220917481cbf6cd6b637fbacb8e0de20d937576b8ab72bbe49422991a1543d4deb2",
+                        "000d76ebf028277714932f2ef28c9bd5ee8e1971bdc1fe3eeeb3c9ab48216581a6ca12122034a92195b2a32d673feb1a6697c5d68fb05de0d2d935e846f60f3489db889fc9",
+                        "00ad3ca77700c81e1894c7bda776094d06e754e611717a4155596dbbdd7a1be3f8ca1212207e4462a3ac2c75c6242ccf4cb35f5b21e00f845452cf366d4cdfeada86c0e2d4",
+                        "00bb67b97b9a7da11de0f1ad30b344572a12c9935effa3008faac1c663b81c39d1ca121220bec8142ea392be7ee6543be17142e3d66b13b04c18202bfa108e8d29b0e02419",
+                        "005cde15d6eaea036de0582aec6369fc4ab93b17a906d935fac37812e51c7f46e3ca121220112e48b9a12a04306c904aabeb7af076f21b00c5fc433908e0bdde4a958e9a3c",
+                        "00271a7b452e5d91c4133ff5a45f424b86aa9ac10d08eed9aba8a23fab98ca9472ca121220a2dae336559eb2e6bbb2bfb8f9c36b304d52d72bc0d0d85b6141c1585353aeb5",
+                        "0067d17deab782e29c6992e67f6427f7de546eab289bffc8e600a816f502ba5437ca121220faa09426a5df88d433dfffc5f0ac3a05c5155738dab733d9f3aaaf56c574822b",
+                        "004b7ff8153e2cf9a4216fb9c088db49f64649006e49f2c58465be62a8afa7e569ca121220bf3980c9fd1bb6084fa7706587c431de3f35279004b7b8873cbc326215e548fa",
+                        "00e7e1d6148a3b7b5d2a9c622b40d5e1f4d03b9e0f4ec5a21a7f1736955d92be5eca1212201993da7cd769fd69c2d71c5587370173ce50be9068bf2142da39d2059809804b",
+                        "000eeee32badd139c61cb12bcc6d7a6baa0d8ec44e77631e7ca31ac50cf881c561ca121220308d3226f0008e92f15c171ba7f2f4098d89b34ab0f4cfbf524aa82ee35ec214",
+                        "008271deaf6e41220ca35688eb800047b9b79b87aaaeb6fc0818e27626c685ce3dca121220056b0a1e38f646811215e2197870c2b843ac0e86e5839f4bc8ad6ac4e2592ed2",
+                        "008dcc4022f93ae4fb0cc6951a60ebb30dc9f323f1d86992c1464b41fa952f6b3dca1212203da1ca518607099b8589c6714c4e79a0a1bc8629cf37206fcc7bf79efb40c015",
+                        "000bae9eab55ca5c6c14062962cafd248a58ffdfdb177f3b930603b72fe5047df9ca121220ffd9da3706a164b5543aa4e6b0f8bb78d0872c0c8772a82152d33ffac9a4279a",
+                        "00c6509d473138e22eb9e08ecf4641ea8efe1a82edd0b31cd92ff7938a3eddfe59ca1212202dff53246da3a69d47c799295b2c2ebcec22060a56d3183efe4c7c30f7987654",
+                        "00373247c7c91dea410c26d914bd56f6b5adc0eb9c359b0b3cc17266f4a7975b42ca121220f712ccc8746f48e723aff8475d3e30d270124e519094de09771a946daf4bb7de",
+                        "00eb3e5212cbff25a203fb13beaad0d70bf58ed211ed744e0167867a31927e9402ca121220c6d18834f471049c127fef66baef0c85a2b07b2fbf2a7d10eec0232a08dc19d0",
+                        "00f04e1a92d49bf59f0354edd3cda6f36a916819f257fbe38466dbd38277d661eeca12122049e7b5c3b21b2837b8248273ff16db12486f25968a2115b9e543687fd2264e8f",
+                        "00401cb07c3b790aede6ae141a2f8ba2969aa489b582811fe90a20e33e19e1e09fca121220f2adecb8ed80635d9c1e980cf6ef657a5d7d366bcf5791b8fd5f912077ee2fc6",
+                        "00212cc46b83200434e992886793e01984e5a1f3fe0a517e44532c8dfaee0a1afcca121220eaa60939ab08fbd39f077b3443432dfbda19d09003dbb1464e014b86b914d6f8",
+                        "0045789ad5ae6fc57698587b951c91bc6b55541635dd637773fdeceaeb8cbb57faca121220213ba771ecffc6d34907d1fe8e18cea91da1b88cef7b3b439d4c8e4a4ea2da49",
+                        "002334e70f5b43d384e889be9adea567b24cb27323848ce21e2cccb66bf124522cca121220edc5e5a740b63b9e349691aa6144f2e214be75fdca7239a2b38a480ccea5ec62",
+                        "00f6153430fdc3780f15c7ecd53345cc5808e515710629c890ab62af04d9a5cb03ca121220df8f7ca8eda4306cb62179adfa49bc6263f29b2b4f68e25cb4eb2d1b9582a406",
+                        "009b646fd6cfc88af9de38df096fb99396d5336db32aedf6b2eaffc5694a03c8b2ca121220e9c16ee1a7fa0dd07eeccccb7bc60fd422ab4239f5c26de28642379d23778128",
+                        "0013205f44f5495169fcda30a5ed67b97d817757b0614a6c10ecec323812c00a4fca121220c2fdf60772286283045efa05e748942c7c1d9d280e28407a3b03a2280491c4a8",
+                        "00a6051e8703b0b3fdbf8cb423924e121fbd01048575f9d4756b1e0d399f3dde24ca121220577bd54e3ec465bd2024ea8d374e8e781dacab367a8aa86479e85b4295719427",
+                        "004a23f2e191748e6aad86db8b16ebcae328ceba437f2b2cba9c164cee3bd93816ca12122099a0d217a44b185474bc9e4fe508a69a7c7db2c1bf9e11af944371e22f00e277",
+                        "0046db27ffd6bd370a570f71f3a35c896d3d3f12534eddf0d39845112917a4e5d6ca1212202d673b8c673ec568cec613a16447e793947ff203f025a0e924e8a600cd5a728f",
+                        "0088224261c0c36664eb9cad457239efd98c0068fbfd13590ff1edca4e1639c32fca121220119cccabf6cfcf79990ea776c3e64c9a62e11c608478af67ec3b090adc44ffc9",
+                        "004997ea75fcffe8337e3f98bd3cea8b75a679c1c86ae6d689703dbf326a077f27ca1212207f8c03951296a1ef9dd85dc4c56861a96f29071431484fb260c6b39b1cd2bb29",
+                        "007a6f2283c028058d2d5c16f66aab698ddb36c02d89b5ae3682170e24863594ecca121220f61f46f37bd32337ae9290ba24fe7536ece138ed0385c382d20fe160867ca9ce",
+                        "00e4fd17ef257332c00f63bb057e49f6bbb8813e092b04aab9cd7183ef349d8cdeca121220531912d72e4c7ef1109f123d88aecaecc600cbc1437323a54fb9e349369fca72",
+                        "00dec4997d85b6cfb53b36f6b496b20c47737133dbd60b83d0a7182aad6b8c6c1cca121220214a5ecf29ac3836c679504215a9bea9ecdadca26c5feff4feaeed14600be5ac",
+                        "00fffca077bdf15b523077943276c5d102523cf262c6401ff60be20b51e6834b99ca121220a16e193b8a3068fdc460edb5a74cbc43690339d51b21a20d3fd7d22ed0de2d3b",
+                        "002183335e016ac79a9c23c5930f60651a3c2e34516e093b9cef130c2412fb88c2ca121220c846ed88fe87adab6f37a08ed70102a289dd9a9050f1b1dc61a2048bc6ea61c9"
+                    ],
+                    "instrumentId": {
+                        "admin": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                        "id": "Amulet"
+                    },
+                    "meta": {
+                        "values": {
+                            "cantonloop.com/tx_fee": "13.581371237",
+                            "splice.lfdecentralizedtrust.org/reason": "merge_utxo"
+                        }
+                    },
+                    "receiver": "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348",
+                    "requestedAt": "2026-10-28T15:24:04.863505Z",
+                    "sender": "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+                }
+            },
+            "consuming": false,
+            "contract_id": "004b73bef9a25d916efe93af46ed3808e2e486428e017b5718ba1c094d5f2424c6ca10122062968f770bf867cc90d77187118df923844f95b4e98fc1197acfdc09d956d8ce",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {
+                "meta": {
+                    "values": {
+                        "splice.lfdecentralizedtrust.org/tx-kind": "merge-split"
+                    }
+                },
+                "output": {
+                    "tag": "TransferInstructionResult_Completed",
+                    "value": {
+                        "receiverHoldingCids": [
+                            "005fcccae0d9fad17f8d6dd43d316b6c1fd8988aa051127702b049a3fe7ca04aa1ca1212206d6d3eae4513ffa1a3772235e03b728f1e964eb06d7b71d685c495f78c8be339"
+                        ]
+                    }
+                },
+                "senderChangeCids": []
+            },
+            "interface_id": "55ba4deb0ad4662c4168b39859738a0e91388d252286480c7331b3f71a517281:Splice.Api.Token.TransferInstructionV1:TransferFactory",
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.ExternalPartyAmuletRules:ExternalPartyAmuletRules"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:1": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00842f8c6468628523d2dd42a43b2f53872998180fd97874e7d255fc051ebdcbf3ca12122076cadc145e084295a3917035b71b8d9caecebb42fcd1950aff8b701efe2d707a",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:10": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00e368dfd122828f576bc1cd7cb10b18ac84aeafd05750b5f9d801abe146f98b77ca121220415eae29f76dca27373fe51c6a3f92ce9d4ed4622943a16f2595e37eecb0a480",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:11": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "006a31250e081c5b527dff8d0d86c43b5efccbfd9b05be9b93481157d410e706acca1212202e99375052e6efee2b50120b937e297c78c35a813ceeac85d11a51174003eae9",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:12": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00bb3dc604bf221c7a9e1f5a0e1183e79e8368f1d10d4a97fad3ed106c1a7810c8ca1212201d7568647af0a2a37d465847162b94067f7d3bfa95834d878345f0d2b8ccda4b",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:13": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "007760abff802072625facbca374896445cfef22fe9a6a7c7b8f95c354506085bcca1212209bf182906825ff734fe32dbb6a4e0b5de4dbfbf8797f94e8eca9d15ee75176c6",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:14": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00e35594aa6d20bc92dc8032ab165ec39283f750f9b3cf6041d428a24fa84103aaca121220a80d94c31ed43b78140707f4ded6d7aac89a25e20058e7c4fa1545968d3bb1dd",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:15": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "004b347a1c2f880da07152e0822b2f2c6f70842a7ddb735d00116dff48aae3fb60ca1212206c6819aa3692a0acc9c502ccc7376601c3603e78d2807dcfaeb1d959aabfcb97",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:16": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "0083a03a8bd86077ddb86ba1ce2521bfa7f510859efe1bc44227d5b204f433083eca121220660ae21b4e1707df21e2b81ac9dbd40301f91a60b8606235cdf53fdb2cb4adbe",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:17": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00a2a2ac8efd895fe7e9a5b19d08c41f87f475ad20cdb1d3cc9f5320ae6213f395ca121220917481cbf6cd6b637fbacb8e0de20d937576b8ab72bbe49422991a1543d4deb2",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:18": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "000d76ebf028277714932f2ef28c9bd5ee8e1971bdc1fe3eeeb3c9ab48216581a6ca12122034a92195b2a32d673feb1a6697c5d68fb05de0d2d935e846f60f3489db889fc9",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:19": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00ad3ca77700c81e1894c7bda776094d06e754e611717a4155596dbbdd7a1be3f8ca1212207e4462a3ac2c75c6242ccf4cb35f5b21e00f845452cf366d4cdfeada86c0e2d4",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:2": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00738995e3959a635c1bbd25e5ccaf10712d8163bdec1119c8a03451d4f97a9e1cca1212208d36b6eae4d5079f171d456d2c3bb64a226110874dc69997f8f88fd7fd43a63d",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:20": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00bb67b97b9a7da11de0f1ad30b344572a12c9935effa3008faac1c663b81c39d1ca121220bec8142ea392be7ee6543be17142e3d66b13b04c18202bfa108e8d29b0e02419",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:21": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "005cde15d6eaea036de0582aec6369fc4ab93b17a906d935fac37812e51c7f46e3ca121220112e48b9a12a04306c904aabeb7af076f21b00c5fc433908e0bdde4a958e9a3c",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:22": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00271a7b452e5d91c4133ff5a45f424b86aa9ac10d08eed9aba8a23fab98ca9472ca121220a2dae336559eb2e6bbb2bfb8f9c36b304d52d72bc0d0d85b6141c1585353aeb5",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:23": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "0067d17deab782e29c6992e67f6427f7de546eab289bffc8e600a816f502ba5437ca121220faa09426a5df88d433dfffc5f0ac3a05c5155738dab733d9f3aaaf56c574822b",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:24": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "004b7ff8153e2cf9a4216fb9c088db49f64649006e49f2c58465be62a8afa7e569ca121220bf3980c9fd1bb6084fa7706587c431de3f35279004b7b8873cbc326215e548fa",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:25": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00e7e1d6148a3b7b5d2a9c622b40d5e1f4d03b9e0f4ec5a21a7f1736955d92be5eca1212201993da7cd769fd69c2d71c5587370173ce50be9068bf2142da39d2059809804b",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:26": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "000eeee32badd139c61cb12bcc6d7a6baa0d8ec44e77631e7ca31ac50cf881c561ca121220308d3226f0008e92f15c171ba7f2f4098d89b34ab0f4cfbf524aa82ee35ec214",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:27": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "008271deaf6e41220ca35688eb800047b9b79b87aaaeb6fc0818e27626c685ce3dca121220056b0a1e38f646811215e2197870c2b843ac0e86e5839f4bc8ad6ac4e2592ed2",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:28": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "008dcc4022f93ae4fb0cc6951a60ebb30dc9f323f1d86992c1464b41fa952f6b3dca1212203da1ca518607099b8589c6714c4e79a0a1bc8629cf37206fcc7bf79efb40c015",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:29": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "000bae9eab55ca5c6c14062962cafd248a58ffdfdb177f3b930603b72fe5047df9ca121220ffd9da3706a164b5543aa4e6b0f8bb78d0872c0c8772a82152d33ffac9a4279a",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:3": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00f88af4aabce3c98f66ca38f1fd1d22585d3e931e46dea1728ad92e5c25332854ca121220a6da20680c0a57c908b3fa705522c7bb6920c5a950250243112ea0c63540e8e0",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:30": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00c6509d473138e22eb9e08ecf4641ea8efe1a82edd0b31cd92ff7938a3eddfe59ca1212202dff53246da3a69d47c799295b2c2ebcec22060a56d3183efe4c7c30f7987654",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:31": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00373247c7c91dea410c26d914bd56f6b5adc0eb9c359b0b3cc17266f4a7975b42ca121220f712ccc8746f48e723aff8475d3e30d270124e519094de09771a946daf4bb7de",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:32": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00eb3e5212cbff25a203fb13beaad0d70bf58ed211ed744e0167867a31927e9402ca121220c6d18834f471049c127fef66baef0c85a2b07b2fbf2a7d10eec0232a08dc19d0",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:33": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00f04e1a92d49bf59f0354edd3cda6f36a916819f257fbe38466dbd38277d661eeca12122049e7b5c3b21b2837b8248273ff16db12486f25968a2115b9e543687fd2264e8f",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:34": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00401cb07c3b790aede6ae141a2f8ba2969aa489b582811fe90a20e33e19e1e09fca121220f2adecb8ed80635d9c1e980cf6ef657a5d7d366bcf5791b8fd5f912077ee2fc6",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:35": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00212cc46b83200434e992886793e01984e5a1f3fe0a517e44532c8dfaee0a1afcca121220eaa60939ab08fbd39f077b3443432dfbda19d09003dbb1464e014b86b914d6f8",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:36": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "0045789ad5ae6fc57698587b951c91bc6b55541635dd637773fdeceaeb8cbb57faca121220213ba771ecffc6d34907d1fe8e18cea91da1b88cef7b3b439d4c8e4a4ea2da49",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:37": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "002334e70f5b43d384e889be9adea567b24cb27323848ce21e2cccb66bf124522cca121220edc5e5a740b63b9e349691aa6144f2e214be75fdca7239a2b38a480ccea5ec62",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:38": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00f6153430fdc3780f15c7ecd53345cc5808e515710629c890ab62af04d9a5cb03ca121220df8f7ca8eda4306cb62179adfa49bc6263f29b2b4f68e25cb4eb2d1b9582a406",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:39": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "009b646fd6cfc88af9de38df096fb99396d5336db32aedf6b2eaffc5694a03c8b2ca121220e9c16ee1a7fa0dd07eeccccb7bc60fd422ab4239f5c26de28642379d23778128",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:4": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "000f9d157ecf481f9c3d92452567f902f4014ec203fe58fa6b81421589da2db77aca12122055b3692285a397221ccd62fff04ea4f43e735860ae66af08de5893f1502c569d",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:40": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "0013205f44f5495169fcda30a5ed67b97d817757b0614a6c10ecec323812c00a4fca121220c2fdf60772286283045efa05e748942c7c1d9d280e28407a3b03a2280491c4a8",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:41": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00a6051e8703b0b3fdbf8cb423924e121fbd01048575f9d4756b1e0d399f3dde24ca121220577bd54e3ec465bd2024ea8d374e8e781dacab367a8aa86479e85b4295719427",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:42": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "004a23f2e191748e6aad86db8b16ebcae328ceba437f2b2cba9c164cee3bd93816ca12122099a0d217a44b185474bc9e4fe508a69a7c7db2c1bf9e11af944371e22f00e277",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:43": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "0046db27ffd6bd370a570f71f3a35c896d3d3f12534eddf0d39845112917a4e5d6ca1212202d673b8c673ec568cec613a16447e793947ff203f025a0e924e8a600cd5a728f",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:44": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "0088224261c0c36664eb9cad457239efd98c0068fbfd13590ff1edca4e1639c32fca121220119cccabf6cfcf79990ea776c3e64c9a62e11c608478af67ec3b090adc44ffc9",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:45": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "004997ea75fcffe8337e3f98bd3cea8b75a679c1c86ae6d689703dbf326a077f27ca1212207f8c03951296a1ef9dd85dc4c56861a96f29071431484fb260c6b39b1cd2bb29",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:46": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "007a6f2283c028058d2d5c16f66aab698ddb36c02d89b5ae3682170e24863594ecca121220f61f46f37bd32337ae9290ba24fe7536ece138ed0385c382d20fe160867ca9ce",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:47": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00e4fd17ef257332c00f63bb057e49f6bbb8813e092b04aab9cd7183ef349d8cdeca121220531912d72e4c7ef1109f123d88aecaecc600cbc1437323a54fb9e349369fca72",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:48": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00dec4997d85b6cfb53b36f6b496b20c47737133dbd60b83d0a7182aad6b8c6c1cca121220214a5ecf29ac3836c679504215a9bea9ecdadca26c5feff4feaeed14600be5ac",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:49": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00fffca077bdf15b523077943276c5d102523cf262c6401ff60be20b51e6834b99ca121220a16e193b8a3068fdc460edb5a74cbc43690339d51b21a20d3fd7d22ed0de2d3b",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:5": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "0004c7ce7cbb53b8ba82e798584b52b17d17f1058ec86beb09bd1b6700ee2162a5ca1212205cc0dd491e8a712d8586b2c41ccd29db0319bc29c2263316d69ad47541e91338",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:50": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "002183335e016ac79a9c23c5930f60651a3c2e34516e093b9cef130c2412fb88c2ca121220c846ed88fe87adab6f37a08ed70102a289dd9a9050f1b1dc61a2048bc6ea61c9",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:51": {
+            "acting_parties": null,
+            "consuming": false,
+            "contract_id": "005fcccae0d9fad17f8d6dd43d316b6c1fd8988aa051127702b049a3fe7ca04aa1ca1212206d6d3eae4513ffa1a3772235e03b728f1e964eb06d7b71d685c495f78c8be339",
+            "create_arguments": {
+                "amount": {
+                    "createdAt": {
+                        "number": "119194"
+                    },
+                    "initialAmount": "25005.4150418439",
+                    "ratePerRound": {
+                        "rate": "0.0001909426"
+                    }
+                },
+                "dso": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "owner": "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            },
+            "created_at": "2026-10-28T15:24:35.83453Z",
+            "event_type": "created_event",
+            "observers": [],
+            "package_name": "splice-amulet",
+            "signatories": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:52": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "choice": "EventLog_HoldingsChange",
+            "choice_argument": {
+                "account": {
+                    "id": "",
+                    "owner": "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348",
+                    "provider": null
+                },
+                "admin": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "extraArgs": {
+                    "context": {
+                        "values": {}
+                    },
+                    "meta": {
+                        "values": {}
+                    }
+                },
+                "inputHoldingCids": [
+                    "00842f8c6468628523d2dd42a43b2f53872998180fd97874e7d255fc051ebdcbf3ca12122076cadc145e084295a3917035b71b8d9caecebb42fcd1950aff8b701efe2d707a",
+                    "00738995e3959a635c1bbd25e5ccaf10712d8163bdec1119c8a03451d4f97a9e1cca1212208d36b6eae4d5079f171d456d2c3bb64a226110874dc69997f8f88fd7fd43a63d",
+                    "00f88af4aabce3c98f66ca38f1fd1d22585d3e931e46dea1728ad92e5c25332854ca121220a6da20680c0a57c908b3fa705522c7bb6920c5a950250243112ea0c63540e8e0",
+                    "000f9d157ecf481f9c3d92452567f902f4014ec203fe58fa6b81421589da2db77aca12122055b3692285a397221ccd62fff04ea4f43e735860ae66af08de5893f1502c569d",
+                    "0004c7ce7cbb53b8ba82e798584b52b17d17f1058ec86beb09bd1b6700ee2162a5ca1212205cc0dd491e8a712d8586b2c41ccd29db0319bc29c2263316d69ad47541e91338",
+                    "001687593714c076324dedace29609d0a64a474dc2943359f94668b93ba2c33621ca12122098a60bbf84e67217c422fe517f17237402ec5cb333cc1fe79bda29f7e98d7fd6",
+                    "00db62342f486603cd9980168e44013359ab3af0a976b8033863cb162362c32764ca12122068db4a896bfc0cd757c349105a710cc4f3c31bc6a02af362f84cd9792d78a45f",
+                    "00e50621e8507ad734f4e1c3dc88542969b1d777203f3a893f42c4fc2ed08893caca1212207bb85bd0f0fecf51006330755518825ca2acd2d657c230221c8703bd117e41f8",
+                    "0056480778af7d7c5c23cf506dd2ae679e68e1031087a96b52dd2bc74dfc80c704ca12122019465edee91798e3d325f29b7f3c138b683aa7d94c2ba6c5ad3f1ecddb0ebb8f",
+                    "00e368dfd122828f576bc1cd7cb10b18ac84aeafd05750b5f9d801abe146f98b77ca121220415eae29f76dca27373fe51c6a3f92ce9d4ed4622943a16f2595e37eecb0a480",
+                    "006a31250e081c5b527dff8d0d86c43b5efccbfd9b05be9b93481157d410e706acca1212202e99375052e6efee2b50120b937e297c78c35a813ceeac85d11a51174003eae9",
+                    "00bb3dc604bf221c7a9e1f5a0e1183e79e8368f1d10d4a97fad3ed106c1a7810c8ca1212201d7568647af0a2a37d465847162b94067f7d3bfa95834d878345f0d2b8ccda4b",
+                    "007760abff802072625facbca374896445cfef22fe9a6a7c7b8f95c354506085bcca1212209bf182906825ff734fe32dbb6a4e0b5de4dbfbf8797f94e8eca9d15ee75176c6",
+                    "00e35594aa6d20bc92dc8032ab165ec39283f750f9b3cf6041d428a24fa84103aaca121220a80d94c31ed43b78140707f4ded6d7aac89a25e20058e7c4fa1545968d3bb1dd",
+                    "004b347a1c2f880da07152e0822b2f2c6f70842a7ddb735d00116dff48aae3fb60ca1212206c6819aa3692a0acc9c502ccc7376601c3603e78d2807dcfaeb1d959aabfcb97",
+                    "0083a03a8bd86077ddb86ba1ce2521bfa7f510859efe1bc44227d5b204f433083eca121220660ae21b4e1707df21e2b81ac9dbd40301f91a60b8606235cdf53fdb2cb4adbe",
+                    "00a2a2ac8efd895fe7e9a5b19d08c41f87f475ad20cdb1d3cc9f5320ae6213f395ca121220917481cbf6cd6b637fbacb8e0de20d937576b8ab72bbe49422991a1543d4deb2",
+                    "000d76ebf028277714932f2ef28c9bd5ee8e1971bdc1fe3eeeb3c9ab48216581a6ca12122034a92195b2a32d673feb1a6697c5d68fb05de0d2d935e846f60f3489db889fc9",
+                    "00ad3ca77700c81e1894c7bda776094d06e754e611717a4155596dbbdd7a1be3f8ca1212207e4462a3ac2c75c6242ccf4cb35f5b21e00f845452cf366d4cdfeada86c0e2d4",
+                    "00bb67b97b9a7da11de0f1ad30b344572a12c9935effa3008faac1c663b81c39d1ca121220bec8142ea392be7ee6543be17142e3d66b13b04c18202bfa108e8d29b0e02419",
+                    "005cde15d6eaea036de0582aec6369fc4ab93b17a906d935fac37812e51c7f46e3ca121220112e48b9a12a04306c904aabeb7af076f21b00c5fc433908e0bdde4a958e9a3c",
+                    "00271a7b452e5d91c4133ff5a45f424b86aa9ac10d08eed9aba8a23fab98ca9472ca121220a2dae336559eb2e6bbb2bfb8f9c36b304d52d72bc0d0d85b6141c1585353aeb5",
+                    "0067d17deab782e29c6992e67f6427f7de546eab289bffc8e600a816f502ba5437ca121220faa09426a5df88d433dfffc5f0ac3a05c5155738dab733d9f3aaaf56c574822b",
+                    "004b7ff8153e2cf9a4216fb9c088db49f64649006e49f2c58465be62a8afa7e569ca121220bf3980c9fd1bb6084fa7706587c431de3f35279004b7b8873cbc326215e548fa",
+                    "00e7e1d6148a3b7b5d2a9c622b40d5e1f4d03b9e0f4ec5a21a7f1736955d92be5eca1212201993da7cd769fd69c2d71c5587370173ce50be9068bf2142da39d2059809804b",
+                    "000eeee32badd139c61cb12bcc6d7a6baa0d8ec44e77631e7ca31ac50cf881c561ca121220308d3226f0008e92f15c171ba7f2f4098d89b34ab0f4cfbf524aa82ee35ec214",
+                    "008271deaf6e41220ca35688eb800047b9b79b87aaaeb6fc0818e27626c685ce3dca121220056b0a1e38f646811215e2197870c2b843ac0e86e5839f4bc8ad6ac4e2592ed2",
+                    "008dcc4022f93ae4fb0cc6951a60ebb30dc9f323f1d86992c1464b41fa952f6b3dca1212203da1ca518607099b8589c6714c4e79a0a1bc8629cf37206fcc7bf79efb40c015",
+                    "000bae9eab55ca5c6c14062962cafd248a58ffdfdb177f3b930603b72fe5047df9ca121220ffd9da3706a164b5543aa4e6b0f8bb78d0872c0c8772a82152d33ffac9a4279a",
+                    "00c6509d473138e22eb9e08ecf4641ea8efe1a82edd0b31cd92ff7938a3eddfe59ca1212202dff53246da3a69d47c799295b2c2ebcec22060a56d3183efe4c7c30f7987654",
+                    "00373247c7c91dea410c26d914bd56f6b5adc0eb9c359b0b3cc17266f4a7975b42ca121220f712ccc8746f48e723aff8475d3e30d270124e519094de09771a946daf4bb7de",
+                    "00eb3e5212cbff25a203fb13beaad0d70bf58ed211ed744e0167867a31927e9402ca121220c6d18834f471049c127fef66baef0c85a2b07b2fbf2a7d10eec0232a08dc19d0",
+                    "00f04e1a92d49bf59f0354edd3cda6f36a916819f257fbe38466dbd38277d661eeca12122049e7b5c3b21b2837b8248273ff16db12486f25968a2115b9e543687fd2264e8f",
+                    "00401cb07c3b790aede6ae141a2f8ba2969aa489b582811fe90a20e33e19e1e09fca121220f2adecb8ed80635d9c1e980cf6ef657a5d7d366bcf5791b8fd5f912077ee2fc6",
+                    "00212cc46b83200434e992886793e01984e5a1f3fe0a517e44532c8dfaee0a1afcca121220eaa60939ab08fbd39f077b3443432dfbda19d09003dbb1464e014b86b914d6f8",
+                    "0045789ad5ae6fc57698587b951c91bc6b55541635dd637773fdeceaeb8cbb57faca121220213ba771ecffc6d34907d1fe8e18cea91da1b88cef7b3b439d4c8e4a4ea2da49",
+                    "002334e70f5b43d384e889be9adea567b24cb27323848ce21e2cccb66bf124522cca121220edc5e5a740b63b9e349691aa6144f2e214be75fdca7239a2b38a480ccea5ec62",
+                    "00f6153430fdc3780f15c7ecd53345cc5808e515710629c890ab62af04d9a5cb03ca121220df8f7ca8eda4306cb62179adfa49bc6263f29b2b4f68e25cb4eb2d1b9582a406",
+                    "009b646fd6cfc88af9de38df096fb99396d5336db32aedf6b2eaffc5694a03c8b2ca121220e9c16ee1a7fa0dd07eeccccb7bc60fd422ab4239f5c26de28642379d23778128",
+                    "0013205f44f5495169fcda30a5ed67b97d817757b0614a6c10ecec323812c00a4fca121220c2fdf60772286283045efa05e748942c7c1d9d280e28407a3b03a2280491c4a8",
+                    "00a6051e8703b0b3fdbf8cb423924e121fbd01048575f9d4756b1e0d399f3dde24ca121220577bd54e3ec465bd2024ea8d374e8e781dacab367a8aa86479e85b4295719427",
+                    "004a23f2e191748e6aad86db8b16ebcae328ceba437f2b2cba9c164cee3bd93816ca12122099a0d217a44b185474bc9e4fe508a69a7c7db2c1bf9e11af944371e22f00e277",
+                    "0046db27ffd6bd370a570f71f3a35c896d3d3f12534eddf0d39845112917a4e5d6ca1212202d673b8c673ec568cec613a16447e793947ff203f025a0e924e8a600cd5a728f",
+                    "0088224261c0c36664eb9cad457239efd98c0068fbfd13590ff1edca4e1639c32fca121220119cccabf6cfcf79990ea776c3e64c9a62e11c608478af67ec3b090adc44ffc9",
+                    "004997ea75fcffe8337e3f98bd3cea8b75a679c1c86ae6d689703dbf326a077f27ca1212207f8c03951296a1ef9dd85dc4c56861a96f29071431484fb260c6b39b1cd2bb29",
+                    "007a6f2283c028058d2d5c16f66aab698ddb36c02d89b5ae3682170e24863594ecca121220f61f46f37bd32337ae9290ba24fe7536ece138ed0385c382d20fe160867ca9ce",
+                    "00e4fd17ef257332c00f63bb057e49f6bbb8813e092b04aab9cd7183ef349d8cdeca121220531912d72e4c7ef1109f123d88aecaecc600cbc1437323a54fb9e349369fca72",
+                    "00dec4997d85b6cfb53b36f6b496b20c47737133dbd60b83d0a7182aad6b8c6c1cca121220214a5ecf29ac3836c679504215a9bea9ecdadca26c5feff4feaeed14600be5ac",
+                    "00fffca077bdf15b523077943276c5d102523cf262c6401ff60be20b51e6834b99ca121220a16e193b8a3068fdc460edb5a74cbc43690339d51b21a20d3fd7d22ed0de2d3b",
+                    "002183335e016ac79a9c23c5930f60651a3c2e34516e093b9cef130c2412fb88c2ca121220c846ed88fe87adab6f37a08ed70102a289dd9a9050f1b1dc61a2048bc6ea61c9"
+                ],
+                "observers": [
+                    "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+                ],
+                "outputHoldingCids": [
+                    "005fcccae0d9fad17f8d6dd43d316b6c1fd8988aa051127702b049a3fe7ca04aa1ca1212206d6d3eae4513ffa1a3772235e03b728f1e964eb06d7b71d685c495f78c8be339"
+                ],
+                "transferLegSides": [
+                    {
+                        "amount": "25005.4150418439",
+                        "instrumentId": "Amulet",
+                        "meta": {
+                            "values": {
+                                "cantonloop.com/tx_fee": "13.581371237",
+                                "splice.lfdecentralizedtrust.org/reason": "merge_utxo"
+                            }
+                        },
+                        "otherside": {
+                            "id": "",
+                            "owner": "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348",
+                            "provider": null
+                        },
+                        "side": "SenderSide",
+                        "transferLegId": "leg0"
+                    },
+                    {
+                        "amount": "25005.4150418439",
+                        "instrumentId": "Amulet",
+                        "meta": {
+                            "values": {
+                                "cantonloop.com/tx_fee": "13.581371237",
+                                "splice.lfdecentralizedtrust.org/reason": "merge_utxo"
+                            }
+                        },
+                        "otherside": {
+                            "id": "",
+                            "owner": "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348",
+                            "provider": null
+                        },
+                        "side": "ReceiverSide",
+                        "transferLegId": "leg0"
+                    }
+                ]
+            },
+            "consuming": false,
+            "contract_id": "0054c0b36b01e2876bacbe332161456f019efc6149c607504e2d586f6c5536bdd0ca12122082c9546f56baed96348f458094be0cbe4bee84ae5fbd8c10c212d27ec5339c3f",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "interface_id": "5c1097a9bad0af4bcfe6d3fb0fe55112d3d11f18eae57ddfb14c20836fee226c:Splice.Api.Token.TransferEventsV2:EventLog",
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.ExternalPartyConfigState:ExternalPartyConfigState"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:53": {
+            "acting_parties": [
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "child_event_ids": [
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:54"
+            ],
+            "choice": "TransferFactory_Transfer",
+            "choice_argument": {
+                "expectedAdmin": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "extraArgs": {
+                    "context": {
+                        "values": {
+                            "amulet-rules": {
+                                "tag": "AV_ContractId",
+                                "value": "004c2f3cb5642f52d7276ac41a7ca3d0d241ed259a29a7d14771817835fd923cceca1212200a36e0806a8d2dad6727566b9c4b94d8f8bd23eb76e5d709d6c6bacb08d9939e"
+                            },
+                            "external-party-config-state": {
+                                "tag": "AV_ContractId",
+                                "value": "0054c0b36b01e2876bacbe332161456f019efc6149c607504e2d586f6c5536bdd0ca12122082c9546f56baed96348f458094be0cbe4bee84ae5fbd8c10c212d27ec5339c3f"
+                            },
+                            "featured-app-right": {
+                                "tag": "AV_ContractId",
+                                "value": "005e868082165b0e33bd2fd8c22c9237db4e2736637f3407cd75297dacde80a79cca111220a096658112b37bcdea1bd310658b264be807708f5b4b900f8ef162e4f6c1274f"
+                            },
+                            "open-round": {
+                                "tag": "AV_ContractId",
+                                "value": "007620cd1aea0bcb5c6a9ff3aec65cab0db8b2c91cd2ead2f15f511a9c90fdd47fca12122097eb1c51484f408237b7034a516b7ab289f2c16c49b35af300458410107a45bf"
+                            },
+                            "transfer-preapproval": {
+                                "tag": "AV_ContractId",
+                                "value": "009c795ef48ca9302c7f5daf33e8fdf9a351731a7aa57a20e3142cdd5bc8086bcfca1212209c4d9b101e54b2efae89533389d8827c1f8bd68eccb1b8d13b6af0682f15ed62"
+                            }
+                        }
+                    },
+                    "meta": {
+                        "values": {}
+                    }
+                },
+                "transfer": {
+                    "amount": "13.5813712370",
+                    "executeBefore": "2026-11-27T15:24:35.298100Z",
+                    "inputHoldingCids": [
+                        "005fcccae0d9fad17f8d6dd43d316b6c1fd8988aa051127702b049a3fe7ca04aa1ca1212206d6d3eae4513ffa1a3772235e03b728f1e964eb06d7b71d685c495f78c8be339"
+                    ],
+                    "instrumentId": {
+                        "admin": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                        "id": "Amulet"
+                    },
+                    "meta": {
+                        "values": {
+                            "splice.lfdecentralizedtrust.org/reason": "transfer_fee"
+                        }
+                    },
+                    "receiver": "cantonloop-mainnet-1::12205fb70ce14897d06baec18a4b889f296c765a8325fd3d99cc084b1f980426ac12",
+                    "requestedAt": "2026-10-28T15:24:05.298100Z",
+                    "sender": "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+                }
+            },
+            "consuming": false,
+            "contract_id": "004b73bef9a25d916efe93af46ed3808e2e486428e017b5718ba1c094d5f2424c6ca10122062968f770bf867cc90d77187118df923844f95b4e98fc1197acfdc09d956d8ce",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {
+                "meta": {
+                    "values": {
+                        "splice.lfdecentralizedtrust.org/reason": "transfer_fee",
+                        "splice.lfdecentralizedtrust.org/sender": "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348",
+                        "splice.lfdecentralizedtrust.org/tx-kind": "transfer"
+                    }
+                },
+                "output": {
+                    "tag": "TransferInstructionResult_Completed",
+                    "value": {
+                        "receiverHoldingCids": [
+                            "001d6557aad021208376fa2afc4dcc36e1268a0c924685a2a429290226d5fd7013ca1212209f731b62afafdf0829840582942f6d4b805d16a14b8bde951869600213f832a7"
+                        ]
+                    }
+                },
+                "senderChangeCids": [
+                    "00e343a9e040cd74669281922336c5bcbae9085aca098cd421fe980d5547121a53ca121220ffc16da5a21982116f2ddd3db931d4f8e2d695d379e19e4c849cd607563dd007"
+                ]
+            },
+            "interface_id": "55ba4deb0ad4662c4168b39859738a0e91388d252286480c7331b3f71a517281:Splice.Api.Token.TransferInstructionV1:TransferFactory",
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.ExternalPartyAmuletRules:ExternalPartyAmuletRules"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:54": {
+            "acting_parties": [
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "child_event_ids": [
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:55",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:56",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:57",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:58",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:59",
+                "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:60"
+            ],
+            "choice": "TransferPreapproval_SendV2",
+            "choice_argument": {
+                "amount": "13.5813712370",
+                "context": {
+                    "externalPartyConfigState": "0054c0b36b01e2876bacbe332161456f019efc6149c607504e2d586f6c5536bdd0ca12122082c9546f56baed96348f458094be0cbe4bee84ae5fbd8c10c212d27ec5339c3f",
+                    "featuredAppRight": "005e868082165b0e33bd2fd8c22c9237db4e2736637f3407cd75297dacde80a79cca111220a096658112b37bcdea1bd310658b264be807708f5b4b900f8ef162e4f6c1274f"
+                },
+                "description": "transfer_fee",
+                "inputs": [
+                    {
+                        "tag": "InputAmulet",
+                        "value": "005fcccae0d9fad17f8d6dd43d316b6c1fd8988aa051127702b049a3fe7ca04aa1ca1212206d6d3eae4513ffa1a3772235e03b728f1e964eb06d7b71d685c495f78c8be339"
+                    }
+                ],
+                "meta": {
+                    "values": {
+                        "splice.lfdecentralizedtrust.org/reason": "transfer_fee"
+                    }
+                },
+                "sender": "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            },
+            "consuming": false,
+            "contract_id": "009c795ef48ca9302c7f5daf33e8fdf9a351731a7aa57a20e3142cdd5bc8086bcfca1212209c4d9b101e54b2efae89533389d8827c1f8bd68eccb1b8d13b6af0682f15ed62",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {
+                "meta": {
+                    "values": {
+                        "splice.lfdecentralizedtrust.org/reason": "transfer_fee",
+                        "splice.lfdecentralizedtrust.org/sender": "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348",
+                        "splice.lfdecentralizedtrust.org/tx-kind": "transfer"
+                    }
+                },
+                "result": {
+                    "createdAmulets": [
+                        {
+                            "tag": "TransferResultAmulet",
+                            "value": "001d6557aad021208376fa2afc4dcc36e1268a0c924685a2a429290226d5fd7013ca1212209f731b62afafdf0829840582942f6d4b805d16a14b8bde951869600213f832a7"
+                        }
+                    ],
+                    "meta": null,
+                    "round": {
+                        "number": "119194"
+                    },
+                    "senderChangeAmulet": "00e343a9e040cd74669281922336c5bcbae9085aca098cd421fe980d5547121a53ca121220ffc16da5a21982116f2ddd3db931d4f8e2d695d379e19e4c849cd607563dd007",
+                    "summary": {
+                        "amuletPrice": "0.0996420000",
+                        "balanceChanges": [
+                            [
+                                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348",
+                                {
+                                    "changeToHoldingFeesRate": "0E-10",
+                                    "changeToInitialAmountAsOfRoundZero": "-13.5813712370"
+                                }
+                            ],
+                            [
+                                "cantonloop-mainnet-1::12205fb70ce14897d06baec18a4b889f296c765a8325fd3d99cc084b1f980426ac12",
+                                {
+                                    "changeToHoldingFeesRate": "0.0001909426",
+                                    "changeToInitialAmountAsOfRoundZero": "36.3405835014"
+                                }
+                            ]
+                        ],
+                        "holdingFees": "0E-10",
+                        "inputAmuletAmount": "25005.4150418439",
+                        "inputAppRewardAmount": "0E-10",
+                        "inputDevelopmentFundAmount": "0E-10",
+                        "inputSvRewardAmount": "0E-10",
+                        "inputUnclaimedActivityRecordAmount": "0E-10",
+                        "inputValidatorFaucetAmount": "0E-10",
+                        "inputValidatorRewardAmount": "0E-10",
+                        "outputFees": [
+                            "0E-10"
+                        ],
+                        "senderChangeAmount": "24991.8336706069",
+                        "senderChangeFee": "0E-10"
+                    }
+                }
+            },
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.AmuletRules:TransferPreapproval"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:55": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "005fcccae0d9fad17f8d6dd43d316b6c1fd8988aa051127702b049a3fe7ca04aa1ca1212206d6d3eae4513ffa1a3772235e03b728f1e964eb06d7b71d685c495f78c8be339",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:56": {
+            "acting_parties": null,
+            "consuming": false,
+            "contract_id": "00248650d3c07429ba27c96c879ca743f4aee7f73107554ea93530e6fea7725b79ca1212204cfdfc734b96e31c94e48ad3ec46f3f41037b6af50e3b3eab5cd20d0f8036dd3",
+            "create_arguments": {
+                "beneficiary": "cantonloop-mainnet-1::12205fb70ce14897d06baec18a4b889f296c765a8325fd3d99cc084b1f980426ac12",
+                "dso": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "provider": "cantonloop-mainnet-1::12205fb70ce14897d06baec18a4b889f296c765a8325fd3d99cc084b1f980426ac12",
+                "weight": "1.0000000000"
+            },
+            "created_at": "2026-10-28T15:24:35.83453Z",
+            "event_type": "created_event",
+            "observers": [
+                "cantonloop-mainnet-1::12205fb70ce14897d06baec18a4b889f296c765a8325fd3d99cc084b1f980426ac12"
+            ],
+            "package_name": "splice-amulet",
+            "signatories": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:FeaturedAppActivityMarker"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:57": {
+            "acting_parties": null,
+            "consuming": false,
+            "contract_id": "001d6557aad021208376fa2afc4dcc36e1268a0c924685a2a429290226d5fd7013ca1212209f731b62afafdf0829840582942f6d4b805d16a14b8bde951869600213f832a7",
+            "create_arguments": {
+                "amount": {
+                    "createdAt": {
+                        "number": "119194"
+                    },
+                    "initialAmount": "13.5813712370",
+                    "ratePerRound": {
+                        "rate": "0.0001909426"
+                    }
+                },
+                "dso": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "owner": "cantonloop-mainnet-1::12205fb70ce14897d06baec18a4b889f296c765a8325fd3d99cc084b1f980426ac12"
+            },
+            "created_at": "2026-10-28T15:24:35.83453Z",
+            "event_type": "created_event",
+            "observers": [],
+            "package_name": "splice-amulet",
+            "signatories": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "cantonloop-mainnet-1::12205fb70ce14897d06baec18a4b889f296c765a8325fd3d99cc084b1f980426ac12"
+            ],
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:58": {
+            "acting_parties": null,
+            "consuming": false,
+            "contract_id": "00e343a9e040cd74669281922336c5bcbae9085aca098cd421fe980d5547121a53ca121220ffc16da5a21982116f2ddd3db931d4f8e2d695d379e19e4c849cd607563dd007",
+            "create_arguments": {
+                "amount": {
+                    "createdAt": {
+                        "number": "119194"
+                    },
+                    "initialAmount": "24991.8336706069",
+                    "ratePerRound": {
+                        "rate": "0.0001909426"
+                    }
+                },
+                "dso": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "owner": "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            },
+            "created_at": "2026-10-28T15:24:35.83453Z",
+            "event_type": "created_event",
+            "observers": [],
+            "package_name": "splice-amulet",
+            "signatories": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:59": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "choice": "EventLog_HoldingsChange",
+            "choice_argument": {
+                "account": {
+                    "id": "",
+                    "owner": "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348",
+                    "provider": null
+                },
+                "admin": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "extraArgs": {
+                    "context": {
+                        "values": {}
+                    },
+                    "meta": {
+                        "values": {}
+                    }
+                },
+                "inputHoldingCids": [
+                    "005fcccae0d9fad17f8d6dd43d316b6c1fd8988aa051127702b049a3fe7ca04aa1ca1212206d6d3eae4513ffa1a3772235e03b728f1e964eb06d7b71d685c495f78c8be339"
+                ],
+                "observers": [
+                    "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+                ],
+                "outputHoldingCids": [
+                    "00e343a9e040cd74669281922336c5bcbae9085aca098cd421fe980d5547121a53ca121220ffc16da5a21982116f2ddd3db931d4f8e2d695d379e19e4c849cd607563dd007"
+                ],
+                "transferLegSides": [
+                    {
+                        "amount": "13.5813712370",
+                        "instrumentId": "Amulet",
+                        "meta": {
+                            "values": {
+                                "splice.lfdecentralizedtrust.org/reason": "transfer_fee"
+                            }
+                        },
+                        "otherside": {
+                            "id": "",
+                            "owner": "cantonloop-mainnet-1::12205fb70ce14897d06baec18a4b889f296c765a8325fd3d99cc084b1f980426ac12",
+                            "provider": null
+                        },
+                        "side": "SenderSide",
+                        "transferLegId": "leg0"
+                    }
+                ]
+            },
+            "consuming": false,
+            "contract_id": "0054c0b36b01e2876bacbe332161456f019efc6149c607504e2d586f6c5536bdd0ca12122082c9546f56baed96348f458094be0cbe4bee84ae5fbd8c10c212d27ec5339c3f",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "interface_id": "5c1097a9bad0af4bcfe6d3fb0fe55112d3d11f18eae57ddfb14c20836fee226c:Splice.Api.Token.TransferEventsV2:EventLog",
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.ExternalPartyConfigState:ExternalPartyConfigState"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:6": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "001687593714c076324dedace29609d0a64a474dc2943359f94668b93ba2c33621ca12122098a60bbf84e67217c422fe517f17237402ec5cb333cc1fe79bda29f7e98d7fd6",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:60": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+            ],
+            "choice": "EventLog_HoldingsChange",
+            "choice_argument": {
+                "account": {
+                    "id": "",
+                    "owner": "cantonloop-mainnet-1::12205fb70ce14897d06baec18a4b889f296c765a8325fd3d99cc084b1f980426ac12",
+                    "provider": null
+                },
+                "admin": "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "extraArgs": {
+                    "context": {
+                        "values": {}
+                    },
+                    "meta": {
+                        "values": {}
+                    }
+                },
+                "inputHoldingCids": [],
+                "observers": [
+                    "cantonloop-mainnet-1::12205fb70ce14897d06baec18a4b889f296c765a8325fd3d99cc084b1f980426ac12"
+                ],
+                "outputHoldingCids": [
+                    "001d6557aad021208376fa2afc4dcc36e1268a0c924685a2a429290226d5fd7013ca1212209f731b62afafdf0829840582942f6d4b805d16a14b8bde951869600213f832a7"
+                ],
+                "transferLegSides": [
+                    {
+                        "amount": "13.5813712370",
+                        "instrumentId": "Amulet",
+                        "meta": {
+                            "values": {
+                                "splice.lfdecentralizedtrust.org/reason": "transfer_fee"
+                            }
+                        },
+                        "otherside": {
+                            "id": "",
+                            "owner": "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348",
+                            "provider": null
+                        },
+                        "side": "ReceiverSide",
+                        "transferLegId": "leg0"
+                    }
+                ]
+            },
+            "consuming": false,
+            "contract_id": "0054c0b36b01e2876bacbe332161456f019efc6149c607504e2d586f6c5536bdd0ca12122082c9546f56baed96348f458094be0cbe4bee84ae5fbd8c10c212d27ec5339c3f",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "interface_id": "5c1097a9bad0af4bcfe6d3fb0fe55112d3d11f18eae57ddfb14c20836fee226c:Splice.Api.Token.TransferEventsV2:EventLog",
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.ExternalPartyConfigState:ExternalPartyConfigState"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:7": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00db62342f486603cd9980168e44013359ab3af0a976b8033863cb162362c32764ca12122068db4a896bfc0cd757c349105a710cc4f3c31bc6a02af362f84cd9792d78a45f",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:8": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "00e50621e8507ad734f4e1c3dc88542969b1d777203f3a893f42c4fc2ed08893caca1212207bb85bd0f0fecf51006330755518825ca2acd2d657c230221c8703bd117e41f8",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:9": {
+            "acting_parties": [
+                "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+            ],
+            "choice": "Archive",
+            "choice_argument": {},
+            "consuming": true,
+            "contract_id": "0056480778af7d7c5c23cf506dd2ae679e68e1031087a96b52dd2bc74dfc80c704ca12122019465edee91798e3d325f29b7f3c138b683aa7d94c2ba6c5ad3f1ecddb0ebb8f",
+            "created_at": "0001-01-01T00:00:00Z",
+            "event_type": "exercised_event",
+            "exercise_result": {},
+            "observers": null,
+            "package_name": "splice-amulet",
+            "signatories": null,
+            "template_id": "8fe7573f5535dc5b910a1f24d7d980da0e10ab38f8d29cb397146119bbfb7b3a:Splice.Amulet:Amulet"
+        },
+        "verdict": {
+            "id": 537790406,
+            "update_id": "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b",
+            "migration_id": 4,
+            "synchronizer_id": 1,
+            "record_time": "2026-10-28T15:24:36.252646Z",
+            "finalization_time": "2026-10-28T15:24:41.048461Z",
+            "submitting_parties": [
+                "utxo-merge::12205fb70ce14897d06baec18a4b889f296c765a8325fd3d99cc084b1f980426ac12"
+            ],
+            "submitting_participant_uid": "",
+            "verdict_result": "accepted",
+            "mediator_group": 0,
+            "traffic_summary": {
+                "total_traffic_cost": 22232,
+                "envelope_traffic_summaries": [
+                    {
+                        "view_ids": [],
+                        "traffic_cost": 1875
+                    },
+                    {
+                        "view_ids": [],
+                        "traffic_cost": 147
+                    },
+                    {
+                        "view_ids": [
+                            0
+                        ],
+                        "traffic_cost": 6248
+                    },
+                    {
+                        "view_ids": [
+                            1,
+                            2
+                        ],
+                        "traffic_cost": 13962
+                    }
+                ]
+            },
+            "transaction_views": {
+                "views": [
+                    {
+                        "view_id": 0,
+                        "informees": [
+                            "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348",
+                            "cantonloop-mainnet-1::12205fb70ce14897d06baec18a4b889f296c765a8325fd3d99cc084b1f980426ac12",
+                            "utxo-merge::12205fb70ce14897d06baec18a4b889f296c765a8325fd3d99cc084b1f980426ac12"
+                        ],
+                        "sub_views": [
+                            1,
+                            2
+                        ],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348",
+                                    "cantonloop-mainnet-1::12205fb70ce14897d06baec18a4b889f296c765a8325fd3d99cc084b1f980426ac12",
+                                    "utxo-merge::12205fb70ce14897d06baec18a4b889f296c765a8325fd3d99cc084b1f980426ac12"
+                                ],
+                                "threshold": 3
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 1,
+                        "informees": [
+                            "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                            "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                                    "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+                                ],
+                                "threshold": 2
+                            },
+                            {
+                                "parties": [
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "threshold": 1
+                            }
+                        ]
+                    },
+                    {
+                        "view_id": 2,
+                        "informees": [
+                            "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                            "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348",
+                            "cantonloop-mainnet-1::12205fb70ce14897d06baec18a4b889f296c765a8325fd3d99cc084b1f980426ac12"
+                        ],
+                        "sub_views": [],
+                        "confirming_parties": [
+                            {
+                                "parties": [
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                                    "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348"
+                                ],
+                                "threshold": 2
+                            },
+                            {
+                                "parties": [
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                                    "cantonloop-mainnet-1::12205fb70ce14897d06baec18a4b889f296c765a8325fd3d99cc084b1f980426ac12"
+                                ],
+                                "threshold": 2
+                            },
+                            {
+                                "parties": [
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc"
+                                ],
+                                "threshold": 1
+                            },
+                            {
+                                "parties": [
+                                    "DSO::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+                                    "c2ef9ce8cffe23343f310f32635501f6::12206b146d0383996179b717e689299956036467e9a255ec58bc01c41c3982b14348",
+                                    "cantonloop-mainnet-1::12205fb70ce14897d06baec18a4b889f296c765a8325fd3d99cc084b1f980426ac12"
+                                ],
+                                "threshold": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            "created_at": "2026-10-28T15:24:52.320216Z",
+            "updated_at": "2026-10-28T15:24:52.320216Z"
+        }
+    },
+    "transaction": {
+        "id": 1793201076252646000,
+        "update_id": "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b",
+        "migration_id": 4,
+        "record_time": "2026-10-28T15:24:36.252646Z",
+        "workflow_id": "",
+        "synchronizer_id": "global-domain::1220b1431ef217342db44d516bb9befde802be7d8899637d290895fa58880f19accc",
+        "effective_at": "2026-10-28T15:24:35.83453Z",
+        "offset_value": "000000000000000001",
+        "root_event_ids": [
+            "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:0",
+            "1220d5238697368599be15d3133d54234ab15ae5ebe2c4d3e8b428b1d9733f157b3b:53"
+        ],
+        "updated_at": "2026-10-28T15:24:44.831632Z",
+        "round": 119326,
+        "choice": "",
+        "consuming": false,
+        "acting_parties": null,
+        "signatories": null,
+        "contract_id": "",
+        "choice_argument": null,
+        "is_cip56": false,
+        "traffic_cost": {
+            "bytes": 22232,
+            "cost_usd": 1.33392,
+            "source": "mediator_event.traffic_summary_total_traffic_cost"
+        }
+    }
+}
